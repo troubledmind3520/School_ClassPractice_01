@@ -740,3 +740,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.01-08.59.40:195][846]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BP05A458384BAF3AEB383F9F81C99FD3B0.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
 [2020.09.01-08.59.40:206][846]AssetCheck: New page: Asset Save: Zombie_BP
 [2020.09.01-08.59.40:206][846]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
+[2020.09.01-09.00.44:572][664]BlueprintLog: New page: Compile Zombie_BP
+[2020.09.01-09.00.44:761][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.09.01-09.00.45:201][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_BP/Zombie_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset" SILENT=true
+[2020.09.01-09.00.45:225][699]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BPAB12A9E949D26F9BB222ADA768B58CEE.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
+[2020.09.01-09.00.45:235][699]AssetCheck: New page: Asset Save: Zombie_BP
+[2020.09.01-09.00.45:235][699]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
+[2020.09.01-09.00.48:059][958]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Zombie_BP/Zombie_BA.Zombie_BA
+[2020.09.01-09.00.48:181][958]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.09.01-09.00.48:572][958]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.01-09.00.48:573][958]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.09.01-09.00.48:860][958]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.01-09.00.51:526][193]LogSlate: Window 'Zombie_BA' being destroyed
+[2020.09.01-09.00.51:555][193]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.01-09.00.51:555][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.01-09.00.51:559][193]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.01-09.00.51:559][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.01-09.00.51:677][193]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.01-09.00.51:677][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.01-09.00.52:448][279]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2020.09.01-09.01.09:948][304]BlueprintLog: New page: Compile Zombie_BP
+[2020.09.01-09.01.10:201][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.09.01-09.01.10:535][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_BP/Zombie_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset" SILENT=true
+[2020.09.01-09.01.10:559][339]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BPAD40575B462358C31744D89F0F825D8C.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
+[2020.09.01-09.01.10:571][339]AssetCheck: New page: Asset Save: Zombie_BP
+[2020.09.01-09.01.10:571][339]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
+[2020.09.01-09.01.14:451][788]BlueprintLog: New page: Compile Zombie_BP
+[2020.09.01-09.01.14:677][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.09.01-09.01.15:019][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_BP/Zombie_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset" SILENT=true
+[2020.09.01-09.01.15:044][822]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BPA884AABE4162F577D4DCA7962731F2B3.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
+[2020.09.01-09.01.15:054][822]AssetCheck: New page: Asset Save: Zombie_BP
+[2020.09.01-09.01.15:055][822]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
+[2020.09.01-09.03.04:956][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.09.01-09.03.04:982][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAPS/遊戲關卡01" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.01-09.03.05:010][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.09.01-09.03.05:049][670]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01F2F3E420403516EFAA12A6A5F248D069.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap'
+[2020.09.01-09.03.05:076][670]LogFileHelpers: Saving map '遊戲關卡01' took 0.094
+[2020.09.01-09.03.05:086][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_BP/Zombie_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset" SILENT=true
+[2020.09.01-09.03.05:156][670]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BPC3124F984B304FD0EB103886D0D263F9.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
+[2020.09.01-09.03.05:171][670]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.01-09.03.05:171][670]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.01-09.03.05:171][670]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
