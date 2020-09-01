@@ -623,3 +623,120 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.01-08.39.45:444][946]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.382ms to complete.
 [2020.09.01-08.39.45:444][946]LogFileHelpers: Loading map '遊戲關卡01' took 0.183
 [2020.09.01-08.39.53:289][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.01-08.54.47:122][ 81]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Desktop\mixamo人物與動作素材\殭屍01\殭屍攻擊_Zombie Attack.fbx)
+[2020.09.01-08.54.47:319][ 81]LogFbx: Loading FBX Scene from C:\Users\IM\Desktop\mixamo人物與動作素材\殭屍01\殭屍攻擊_Zombie Attack.fbx
+[2020.09.01-08.54.47:410][ 81]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.01-08.54.53:832][ 81]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(0) Hips
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(1) Spine
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(2) Spine1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(3) Spine2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(4) Neck
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(5) Head
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(8) LeftArm
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(10) LeftHand
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(31) RightShoulder
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(32) RightArm
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(33) RightForeArm
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(34) RightHand
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(56) LeftLeg
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(57) LeftFoot
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.09.01-08.54.53:926][ 81]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.09.01-08.54.53:927][ 81]LogFbx: SortedLinks :(61) RightLeg
+[2020.09.01-08.54.53:927][ 81]LogFbx: SortedLinks :(62) RightFoot
+[2020.09.01-08.54.53:927][ 81]LogFbx: SortedLinks :(63) RightToeBase
+[2020.09.01-08.54.53:927][ 81]LogFbx: SortedLinks :(64) RightToe_End
+[2020.09.01-08.54.53:927][ 81]LogFbx: Parsing AnimStack mixamo.com
+[2020.09.01-08.54.53:944][ 81]LogLinker: Failed to load '/Game/Zombie_Movement/殭屍攻擊_Zombie_Attack': Can't find file.
+[2020.09.01-08.54.53:944][ 81]LogLinker: Failed to load '/Game/Zombie_Movement/殭屍攻擊_Zombie_Attack': Can't find file.
+[2020.09.01-08.54.54:243][ 81]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Zombie_Movement/殭屍攻擊_Zombie_Attack.殭屍攻擊_Zombie_Attack
+[2020.09.01-08.54.54:243][ 81]LogAnimationCompression: Recompressing (AnimSequence /Game/Zombie_Movement/殭屍攻擊_Zombie_Attack.殭屍攻擊_Zombie_Attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.01-08.55.19:479][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.09.01-08.55.19:481][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MAPS/遊戲關卡01' took 0.026
+[2020.09.01-08.55.19:504][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie_Movement/殭屍攻擊_Zombie_Attack] ([1] browsable assets)...
+[2020.09.01-08.55.19:513][295]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Zombie_Movement/殭屍攻擊_Zombie_Attack.殭屍攻擊_Zombie_Attack]
+[2020.09.01-08.55.19:513][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Movement/殭屍攻擊_Zombie_Attack]
+[2020.09.01-08.55.19:555][295]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/殭屍攻擊_Zombie_Attack_Auto1C3C6D44642F88C7C3AD53CBCDCAB9FEF.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/Zombie_Movement/殭屍攻擊_Zombie_Attack_Auto1.uasset'
+[2020.09.01-08.55.19:555][295]LogFileHelpers: Auto-saving content packages took 0.074
+[2020.09.01-08.55.24:067][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
+[2020.09.01-08.55.24:365][569]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.09.01-08.55.25:436][569]LogSlate: Took 0.057095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.01-08.55.25:821][570]LogSlate: Took 0.071045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.01-08.55.28:581][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.09.01-08.55.28:628][775]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/殭屍攻擊_Zombie_Attack2D3FF917464C20B1EECE2487C7A530DB.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_Movement/殭屍攻擊_Zombie_Attack.uasset'
+[2020.09.01-08.55.28:640][775]AssetCheck: New page: Asset Save: 殭屍攻擊_Zombie_Attack
+[2020.09.01-08.55.28:640][775]LogContentValidation: Display: Validating AnimSequence /Game/Zombie_Movement/殭屍攻擊_Zombie_Attack.殭屍攻擊_Zombie_Attack
+[2020.09.01-08.55.31:504][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.09.01-08.55.46:626][889]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Torch_Fire)
+[2020.09.01-08.55.48:349][ 77]LogEditorViewport: Clicking Background
+[2020.09.01-08.55.55:747][954]LogEditorViewport: Clicking Background
+[2020.09.01-08.56.01:030][569]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.09.01-08.56.03:635][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor4)
+[2020.09.01-08.56.04:869][  9]LogEditorViewport: Clicking Background
+[2020.09.01-08.56.08:096][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.09.01-08.56.08:118][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAPS/遊戲關卡01" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.01-08.56.08:147][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.09.01-08.56.08:185][378]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01E2507B8441F903BC9DD63C88156C630A.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap'
+[2020.09.01-08.56.08:214][378]LogFileHelpers: Saving map '遊戲關卡01' took 0.096
+[2020.09.01-08.56.08:223][378]AssetCheck: New page: Asset Save: 遊戲關卡01
+[2020.09.01-08.56.08:223][378]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.01-08.56.12:789][921]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.09.01-08.56.15:121][196]LogEditorViewport: Clicking Background
+[2020.09.01-08.56.17:692][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.09.01-08.56.17:718][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAPS/遊戲關卡01" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.01-08.56.17:747][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.09.01-08.56.17:781][487]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01B2AC3B19461CDE266CAAC1B5B8735423.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap'
+[2020.09.01-08.56.17:809][487]LogFileHelpers: Saving map '遊戲關卡01' took 0.091
+[2020.09.01-08.56.17:818][487]AssetCheck: New page: Asset Save: 遊戲關卡01
+[2020.09.01-08.56.17:819][487]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.01-08.59.40:136][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.09.01-08.59.40:167][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_BP/Zombie_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset" SILENT=true
+[2020.09.01-08.59.40:195][846]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BP05A458384BAF3AEB383F9F81C99FD3B0.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
+[2020.09.01-08.59.40:206][846]AssetCheck: New page: Asset Save: Zombie_BP
+[2020.09.01-08.59.40:206][846]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
