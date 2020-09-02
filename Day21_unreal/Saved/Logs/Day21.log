@@ -2941,3 +2941,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-06.39.32:588][ 34]LogFileHelpers: Saving map '遊戲關卡01' took 0.115
 [2020.09.02-06.39.32:597][ 34]AssetCheck: New page: Asset Save: 遊戲關卡01
 [2020.09.02-06.39.32:597][ 34]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.02-07.09.12:481][495]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\IM\Desktop\遊戲音效素材\純想像力(音樂盒版)_274379__modification1089__creepy-music-box.wav)
+[2020.09.02-07.09.12:550][495]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave 純想像力_音樂盒版__274379__modification1089__creepy-music-box...
+[2020.09.02-07.09.12:551][495]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box.純想像力_音樂盒版__274379__modification1089__creepy-music-box will be modified from 40 to 40.
+[2020.09.02-07.09.13:147][495]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5943168 while cooking SoundWave /Game/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box.純想像力_音樂盒版__274379__modification1089__creepy-music-box.
+[2020.09.02-07.09.13:759][495]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\IM\Desktop\遊戲音效素材\詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience.wav)
+[2020.09.02-07.09.13:794][495]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave 詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience...
+[2020.09.02-07.09.13:797][495]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/音效/詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience.詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience will be modified from 40 to 40.
+[2020.09.02-07.09.14:788][495]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 13963140 while cooking SoundWave /Game/音效/詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience.詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience.
+[2020.09.02-07.09.14:800][495]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\IM\Desktop\遊戲音效素材\撿鑰匙音效_Pickup_key.wav)
+[2020.09.02-07.09.14:800][495]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave 撿鑰匙音效_Pickup_key...
+[2020.09.02-07.09.14:800][495]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/音效/撿鑰匙音效_Pickup_key.撿鑰匙音效_Pickup_key will be modified from 40 to 40.
+[2020.09.02-07.09.14:806][495]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 33212 while cooking SoundWave /Game/音效/撿鑰匙音效_Pickup_key.撿鑰匙音效_Pickup_key.
+[2020.09.02-07.09.14:876][495]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.02-07.09.45:441][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.09.02-07.09.45:446][ 56]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MAPS/遊戲關卡01' took 0.048
+[2020.09.02-07.09.45:446][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box] ([1] browsable assets)...
+[2020.09.02-07.09.45:452][ 56]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box.純想像力_音樂盒版__274379__modification1089__creepy-music-box]
+[2020.09.02-07.09.45:452][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box]
