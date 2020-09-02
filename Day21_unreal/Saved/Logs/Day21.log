@@ -1074,3 +1074,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-02.18.42:596][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.09.02-02.18.59:107][887]BlueprintLog: New page: Compile Day21_BP
 [2020.09.02-02.18.59:406][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.09.02-02.19.26:308][389]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.09.02-02.19.26:350][389]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01_Auto3E24BD24D407D12EB86BD6680931D737F.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/MAPS/遊戲關卡01_Auto3.umap'
+[2020.09.02-02.19.26:354][389]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MAPS/遊戲關卡01' took 0.082
+[2020.09.02-02.19.26:354][389]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.082
+[2020.09.02-02.26.25:645][248]BlueprintLog: New page: Compile Day21_BP
+[2020.09.02-02.26.25:890][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.09.02-02.26.26:275][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.02-02.26.26:356][285]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BP17BBA18D420A77F3035181958BBAECDF.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.02-02.26.26:368][285]AssetCheck: New page: Asset Save: Day21_BP
+[2020.09.02-02.26.26:368][285]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.02-02.28.08:056][843]BlueprintLog: New page: Compile Day21_BP
+[2020.09.02-02.28.08:306][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.09.02-02.28.08:578][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.02-02.28.08:630][868]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BP5B653F3F408B737EE388769C89BAEFB7.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.02-02.28.08:640][868]AssetCheck: New page: Asset Save: Day21_BP
+[2020.09.02-02.28.08:640][868]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.02-02.29.24:850][494]BlueprintLog: New page: Compile Day21_BP
+[2020.09.02-02.29.25:101][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.09.02-02.29.25:348][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.02-02.29.25:398][517]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BP4E3266E44BEFD38F50DF6A9691229F63.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.02-02.29.25:413][517]AssetCheck: New page: Asset Save: Day21_BP
+[2020.09.02-02.29.25:413][517]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.02-02.29.27:248][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.09.02-02.29.27:270][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAPS/遊戲關卡01" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-02.29.27:305][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.09.02-02.29.27:353][724]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01A57792D9486938E43EFA65B509DE329A.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap'
+[2020.09.02-02.29.27:382][724]LogFileHelpers: Saving map '遊戲關卡01' took 0.111
+[2020.09.02-02.29.27:392][724]AssetCheck: New page: Asset Save: 遊戲關卡01
+[2020.09.02-02.29.27:392][724]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.02-02.41.58:192][388]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Day21_BP/Day21_AnimaB.Day21_AnimaB
+[2020.09.02-02.41.58:199][388]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-02.41.58:433][388]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-02.47.25:732][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.09.02-02.47.25:733][975]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MAPS/遊戲關卡01' took 0.038
+[2020.09.02-02.47.25:733][975]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Day21_BP/Day21_AnimaB] ([1] browsable assets)...
+[2020.09.02-02.47.25:743][975]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Day21_BP/Day21_AnimaB.Day21_AnimaB]
+[2020.09.02-02.47.25:743][975]OBJ SavePackage: Finished generating thumbnails for package [/Game/Day21_BP/Day21_AnimaB]
+[2020.09.02-02.47.25:786][975]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_AnimaB_Auto49198CA0548908F06BAFBA7BA522A788F.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/Day21_BP/Day21_AnimaB_Auto4.uasset'
+[2020.09.02-02.47.25:787][975]LogFileHelpers: Auto-saving content packages took 0.054
+[2020.09.02-02.52.44:950][492]BlueprintLog: New page: Compile Day21_AnimaB
+[2020.09.02-02.52.45:191][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.09.02-02.52.45:553][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_AnimaB" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_AnimaB.uasset" SILENT=true
+[2020.09.02-02.52.45:593][530]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_AnimaBAAEE1218430FB30CF9AD35927D5C831C.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_AnimaB.uasset'
+[2020.09.02-02.52.45:605][530]AssetCheck: New page: Asset Save: Day21_AnimaB
+[2020.09.02-02.52.45:605][530]LogContentValidation: Display: Validating AnimBlueprint /Game/Day21_BP/Day21_AnimaB.Day21_AnimaB
+[2020.09.02-02.54.07:345][973]BlueprintLog: New page: Compile Day21_AnimaB
+[2020.09.02-02.54.07:585][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.09.02-02.54.07:806][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_AnimaB" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_AnimaB.uasset" SILENT=true
+[2020.09.02-02.54.07:870][991]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_AnimaBB6148DEF41F008C5839B90A3C6C0BB73.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_AnimaB.uasset'
+[2020.09.02-02.54.07:884][991]AssetCheck: New page: Asset Save: Day21_AnimaB
+[2020.09.02-02.54.07:884][991]LogContentValidation: Display: Validating AnimBlueprint /Game/Day21_BP/Day21_AnimaB.Day21_AnimaB
+[2020.09.02-02.54.11:034][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
