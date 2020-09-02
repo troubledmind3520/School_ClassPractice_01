@@ -2959,3 +2959,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-07.09.45:446][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box] ([1] browsable assets)...
 [2020.09.02-07.09.45:452][ 56]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box.純想像力_音樂盒版__274379__modification1089__creepy-music-box]
 [2020.09.02-07.09.45:452][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box]
+[2020.09.02-07.09.45:479][ 56]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/純想像力_音樂盒版__274379__modification156357F6543DEA67F48B49D98525001D9.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box_Auto9.uasset'
+[2020.09.02-07.09.45:480][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/音效/詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience] ([1] browsable assets)...
+[2020.09.02-07.09.45:490][ 56]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/音效/詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience.詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience]
+[2020.09.02-07.09.45:490][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/音效/詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience]
+[2020.09.02-07.09.45:501][ 56]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/詭異回音_329866__deleted-user-47729610F7D0874601EFCF25D4DDBC12B81A88.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/音效/詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience_Auto9.uasset'
+[2020.09.02-07.09.45:501][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/音效/撿鑰匙音效_Pickup_key] ([1] browsable assets)...
+[2020.09.02-07.09.45:504][ 56]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/音效/撿鑰匙音效_Pickup_key.撿鑰匙音效_Pickup_key]
+[2020.09.02-07.09.45:504][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/音效/撿鑰匙音效_Pickup_key]
+[2020.09.02-07.09.45:512][ 56]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/撿鑰匙音效_Pickup_key_Auto9BB51157F4A4C4CB4027ED6B99FE0686E.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/音效/撿鑰匙音效_Pickup_key_Auto9.uasset'
+[2020.09.02-07.09.45:512][ 56]LogFileHelpers: Auto-saving content packages took 0.066
