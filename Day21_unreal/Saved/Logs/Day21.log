@@ -1014,3 +1014,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-02.08.30:066][934]LogFileHelpers: Saving map '遊戲關卡01' took 0.099
 [2020.09.02-02.08.30:075][934]AssetCheck: New page: Asset Save: 遊戲關卡01
 [2020.09.02-02.08.30:075][934]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.02-02.13.34:178][345]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Day21_Movement/攻擊1-1_Montage.攻擊1-1_Montage
+[2020.09.02-02.13.34:229][345]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.09.02-02.13.34:484][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-02.13.34:486][345]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.09.02-02.13.34:572][345]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-02.13.35:210][345]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.02-02.13.53:755][422]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.02-02.15.42:735][  2]LogSlate: Window '攻擊1-1_Montage' being destroyed
+[2020.09.02-02.15.42:739][  2]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-02.15.42:739][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-02.15.42:828][  2]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-02.15.42:828][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-02.15.46:402][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.09.02-02.15.46:447][340]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Ch40_nonPBR_Skeleton9F8764264B9AB886FD4A30BF5EA2B71F.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Character/Ch40_nonPBR_Skeleton.uasset'
+[2020.09.02-02.15.46:459][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_Movement/攻擊1-1_Montage" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/攻擊1-1_Montage.uasset" SILENT=true
+[2020.09.02-02.15.46:482][340]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/攻擊1-1_Montage9C2003F5446D257B69095BAB5BDA338F.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/攻擊1-1_Montage.uasset'
+[2020.09.02-02.15.46:496][340]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.02-02.15.46:496][340]LogContentValidation: Display: Validating Skeleton /Game/Day21_Character/Ch40_nonPBR_Skeleton.Ch40_nonPBR_Skeleton
+[2020.09.02-02.15.46:496][340]LogContentValidation: Display: Validating AnimMontage /Game/Day21_Movement/攻擊1-1_Montage.攻擊1-1_Montage
+[2020.09.02-02.15.47:579][413]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Day21_Movement/攻擊1-2_Montage.攻擊1-2_Montage
+[2020.09.02-02.15.47:583][413]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-02.15.47:638][413]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-02.15.47:899][413]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.02-02.17.09:025][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_Movement/攻擊1-2_Montage" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/攻擊1-2_Montage.uasset" SILENT=true
+[2020.09.02-02.17.09:077][788]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/攻擊1-2_Montage18BC4DB048A78EF0048C4DB2D237EDDA.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/攻擊1-2_Montage.uasset'
+[2020.09.02-02.17.09:087][788]AssetCheck: New page: Asset Save: 攻擊1-2_Montage
+[2020.09.02-02.17.09:087][788]LogContentValidation: Display: Validating AnimMontage /Game/Day21_Movement/攻擊1-2_Montage.攻擊1-2_Montage
+[2020.09.02-02.17.10:113][897]LogSlate: Window '攻擊1-2_Montage' being destroyed
+[2020.09.02-02.17.10:118][897]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-02.17.10:118][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-02.17.10:200][897]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-02.17.10:200][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-02.17.12:366][ 45]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Day21_Movement/踢擊1_Montage.踢擊1_Montage
+[2020.09.02-02.17.12:370][ 45]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-02.17.12:423][ 45]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-02.17.12:679][ 45]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.02-02.17.46:059][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_Movement/踢擊1_Montage" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/踢擊1_Montage.uasset" SILENT=true
+[2020.09.02-02.17.46:139][713]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/踢擊1_Montage06E7E4B7463CCC5842870A8067D5A945.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/踢擊1_Montage.uasset'
+[2020.09.02-02.17.46:151][713]AssetCheck: New page: Asset Save: 踢擊1_Montage
+[2020.09.02-02.17.46:151][713]LogContentValidation: Display: Validating AnimMontage /Game/Day21_Movement/踢擊1_Montage.踢擊1_Montage
+[2020.09.02-02.17.46:783][773]LogSlate: Window '踢擊1_Montage' being destroyed
+[2020.09.02-02.17.46:788][773]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-02.17.46:788][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-02.17.46:876][773]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-02.17.46:877][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-02.17.48:250][866]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Day21_Movement/踢擊2_Montage.踢擊2_Montage
+[2020.09.02-02.17.48:254][866]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-02.17.48:324][866]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-02.17.48:584][866]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.02-02.18.41:792][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_Movement/踢擊2_Montage" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/踢擊2_Montage.uasset" SILENT=true
+[2020.09.02-02.18.41:816][887]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/踢擊2_MontageAD5DA7CB4F36F2E61C4398B7F0547301.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/踢擊2_Montage.uasset'
+[2020.09.02-02.18.41:827][887]AssetCheck: New page: Asset Save: 踢擊2_Montage
+[2020.09.02-02.18.41:827][887]LogContentValidation: Display: Validating AnimMontage /Game/Day21_Movement/踢擊2_Montage.踢擊2_Montage
+[2020.09.02-02.18.42:503][951]LogSlate: Window '踢擊2_Montage' being destroyed
+[2020.09.02-02.18.42:508][951]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-02.18.42:508][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-02.18.42:596][951]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-02.18.42:596][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-02.18.59:107][887]BlueprintLog: New page: Compile Day21_BP
+[2020.09.02-02.18.59:406][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
