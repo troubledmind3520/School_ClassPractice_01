@@ -2934,3 +2934,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-06.38.50:753][955]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.09.02-06.38.50:760][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
 [2020.09.02-06.38.50:774][956]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.09.02-06.39.32:459][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.09.02-06.39.32:474][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAPS/遊戲關卡01" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-06.39.32:513][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.09.02-06.39.32:558][ 34]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01B1BE2A9F4C67DAC7A72803B89F8F842E.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap'
+[2020.09.02-06.39.32:588][ 34]LogFileHelpers: Saving map '遊戲關卡01' took 0.115
+[2020.09.02-06.39.32:597][ 34]AssetCheck: New page: Asset Save: 遊戲關卡01
+[2020.09.02-06.39.32:597][ 34]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
