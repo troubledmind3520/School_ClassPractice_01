@@ -1653,3 +1653,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-03.59.49:866][213]LogFileHelpers: Saving map '遊戲關卡01' took 0.105
 [2020.09.02-03.59.49:876][213]AssetCheck: New page: Asset Save: 遊戲關卡01
 [2020.09.02-03.59.49:876][213]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.02-04.00.51:780][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.09.02-04.05.25:546][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.09.02-04.05.31:470][396]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2020.09.02-04.05.31:470][396]LogTemp: Resetting audio stream to device id 
+[2020.09.02-04.48.26:222][ 95]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3088183b-517c-4fcf-9495-f857c291c84b}.
+[2020.09.02-04.48.26:222][ 95]LogTemp: Resetting audio stream to device id 
+[2020.09.02-04.48.26:245][ 95]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.02-04.48.26:245][ 95]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.02-04.48.26:245][ 95]LogAudioMixer: Display: Is Default: Yes
+[2020.09.02-04.48.26:245][ 95]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.02-04.48.26:245][ 95]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.02-04.48.26:245][ 95]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.02-04.48.26:245][ 95]LogAudioMixer: Display: Channel Order:
+[2020.09.02-04.48.26:245][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.02-04.48.26:245][ 95]LogAudioMixer: Display: 1: FrontRight
+[2020.09.02-05.14.43:260][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.09.02-05.16.26:223][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.09.02-05.16.26:269][301]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01_Auto68FEF065C4B03B0F5C823FBB9B07BC6DB.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/MAPS/遊戲關卡01_Auto6.umap'
+[2020.09.02-05.16.26:727][301]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MAPS/遊戲關卡01' took 0.541
+[2020.09.02-05.16.26:727][301]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.541
+[2020.09.02-05.16.26:727][301]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie_BP/Zombie_BP] ([1] browsable assets)...
+[2020.09.02-05.16.26:736][301]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP]
+[2020.09.02-05.16.26:736][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_BP/Zombie_BP]
+[2020.09.02-05.16.26:777][301]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BP_Auto6DB44796E4974ADAF3CE1CFB1F16ACFD2.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/Zombie_BP/Zombie_BP_Auto6.uasset'
+[2020.09.02-05.16.26:777][301]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.09.02-05.22.26:917][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.09.02-05.22.26:942][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAPS/遊戲關卡01" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-05.22.26:976][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.02-05.22.27:015][857]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01DAE47AC2437394D6197B32B3908483ED.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap'
+[2020.09.02-05.22.27:045][857]LogFileHelpers: Saving map '遊戲關卡01' took 0.103
+[2020.09.02-05.22.27:055][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_BP/Zombie_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset" SILENT=true
+[2020.09.02-05.22.27:096][857]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BP6E1715E44218F9416141F3BC5FEE51DA.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
+[2020.09.02-05.22.27:111][857]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.02-05.22.27:111][857]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.02-05.22.27:111][857]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
+[2020.09.02-05.22.29:301][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
