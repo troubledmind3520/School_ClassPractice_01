@@ -2969,3 +2969,296 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-07.09.45:504][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/音效/撿鑰匙音效_Pickup_key]
 [2020.09.02-07.09.45:512][ 56]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/撿鑰匙音效_Pickup_key_Auto9BB51157F4A4C4CB4027ED6B99FE0686E.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/音效/撿鑰匙音效_Pickup_key_Auto9.uasset'
 [2020.09.02-07.09.45:512][ 56]LogFileHelpers: Auto-saving content packages took 0.066
+[2020.09.02-07.18.10:340][429]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Zombie_Movement/殭屍死亡_Zombie_Death.殭屍死亡_Zombie_Death
+[2020.09.02-07.18.10:345][429]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-07.18.10:370][429]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-07.18.10:657][429]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.02-07.18.12:241][592]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.18.12:241][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.18.12:277][592]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.18.12:277][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.18.12:347][592]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.18.12:347][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.18.16:141][951]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Zombie_Movement/殭屍被打_Montage.殭屍被打_Montage
+[2020.09.02-07.18.16:146][951]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-07.18.16:169][951]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-07.18.16:422][951]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.02-07.18.19:792][349]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.18.19:792][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.18.19:886][349]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.18.19:886][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.26.53:112][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Desktop\mixamo人物與動作素材\羊男\羊男被打_Hit Reaction.fbx)
+[2020.09.02-07.26.53:121][471]LogFbx: Loading FBX Scene from C:\Users\IM\Desktop\mixamo人物與動作素材\羊男\羊男被打_Hit Reaction.fbx
+[2020.09.02-07.26.53:138][471]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.02-07.26.58:751][471]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(0) Hips
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(1) Spine
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(2) Spine1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(3) Spine2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(4) Neck
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(5) Head
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(8) LeftArm
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(10) LeftHand
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(31) RightShoulder
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(32) RightArm
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(33) RightForeArm
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(34) RightHand
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(56) LeftLeg
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(57) LeftFoot
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(61) RightLeg
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(62) RightFoot
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(63) RightToeBase
+[2020.09.02-07.26.58:788][471]LogFbx: SortedLinks :(64) RightToe_End
+[2020.09.02-07.26.58:789][471]LogFbx: Parsing AnimStack mixamo.com
+[2020.09.02-07.26.58:802][471]LogLinker: Failed to load '/Game/Day21_Movement/羊男被打_Hit_Reaction': Can't find file.
+[2020.09.02-07.26.58:802][471]LogLinker: Failed to load '/Game/Day21_Movement/羊男被打_Hit_Reaction': Can't find file.
+[2020.09.02-07.26.58:960][471]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Day21_Movement/羊男被打_Hit_Reaction.羊男被打_Hit_Reaction
+[2020.09.02-07.26.58:960][471]LogAnimationCompression: Recompressing (AnimSequence /Game/Day21_Movement/羊男被打_Hit_Reaction.羊男被打_Hit_Reaction) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.02-07.26.58:974][471]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\IM\Desktop\mixamo人物與動作素材\羊男\羊男死亡_Sword And Shield Death.fbx)
+[2020.09.02-07.26.58:983][471]LogFbx: Loading FBX Scene from C:\Users\IM\Desktop\mixamo人物與動作素材\羊男\羊男死亡_Sword And Shield Death.fbx
+[2020.09.02-07.26.59:001][471]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(0) Hips
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(1) Spine
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(2) Spine1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(3) Spine2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(4) Neck
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(5) Head
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(8) LeftArm
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(10) LeftHand
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(31) RightShoulder
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(32) RightArm
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(33) RightForeArm
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(34) RightHand
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(56) LeftLeg
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(57) LeftFoot
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(61) RightLeg
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(62) RightFoot
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(63) RightToeBase
+[2020.09.02-07.26.59:005][471]LogFbx: SortedLinks :(64) RightToe_End
+[2020.09.02-07.26.59:006][471]LogFbx: Parsing AnimStack mixamo.com
+[2020.09.02-07.26.59:007][471]LogLinker: Failed to load '/Game/Day21_Movement/羊男死亡_Sword_And_Shield_Death': Can't find file.
+[2020.09.02-07.26.59:007][471]LogLinker: Failed to load '/Game/Day21_Movement/羊男死亡_Sword_And_Shield_Death': Can't find file.
+[2020.09.02-07.27.01:164][471]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Day21_Movement/羊男死亡_Sword_And_Shield_Death.羊男死亡_Sword_And_Shield_Death
+[2020.09.02-07.27.01:164][471]LogAnimationCompression: Recompressing (AnimSequence /Game/Day21_Movement/羊男死亡_Sword_And_Shield_Death.羊男死亡_Sword_And_Shield_Death) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.02-07.27.05:078][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.09.02-07.27.05:145][829]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/純想像力_音樂盒版__274379__modification1E920955D4B7679F034ED54945917963E.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box.uasset'
+[2020.09.02-07.27.05:157][829]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/詭異回音_329866__deleted-user-4772968FD239BD4DB6DC2B14F99F8D2EB1F349.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/音效/詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience.uasset'
+[2020.09.02-07.27.05:160][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/音效/撿鑰匙音效_Pickup_key" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/音效/撿鑰匙音效_Pickup_key.uasset" SILENT=true
+[2020.09.02-07.27.05:177][829]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/撿鑰匙音效_Pickup_key8E427C574C26FC574174C8A35723959A.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/音效/撿鑰匙音效_Pickup_key.uasset'
+[2020.09.02-07.27.05:200][829]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/羊男被打_Hit_Reaction2E79016A452C31F6CA10A18C13412A92.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/羊男被打_Hit_Reaction.uasset'
+[2020.09.02-07.27.05:224][829]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/羊男死亡_Sword_And_Shield_Death97929D9148A621A798235C9F3FCC0016.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/羊男死亡_Sword_And_Shield_Death.uasset'
+[2020.09.02-07.27.05:264][829]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.02-07.27.05:264][829]LogContentValidation: Display: Validating SoundWave /Game/音效/純想像力_音樂盒版__274379__modification1089__creepy-music-box.純想像力_音樂盒版__274379__modification1089__creepy-music-box
+[2020.09.02-07.27.05:264][829]LogContentValidation: Display: Validating SoundWave /Game/音效/詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience.詭異回音_329866__deleted-user-4772965__creepy-vocal-ambience
+[2020.09.02-07.27.05:264][829]LogContentValidation: Display: Validating SoundWave /Game/音效/撿鑰匙音效_Pickup_key.撿鑰匙音效_Pickup_key
+[2020.09.02-07.27.05:264][829]LogContentValidation: Display: Validating AnimSequence /Game/Day21_Movement/羊男被打_Hit_Reaction.羊男被打_Hit_Reaction
+[2020.09.02-07.27.05:264][829]LogContentValidation: Display: Validating AnimSequence /Game/Day21_Movement/羊男死亡_Sword_And_Shield_Death.羊男死亡_Sword_And_Shield_Death
+[2020.09.02-07.28.25:234][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_Movement/羊男被打_Montage" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/羊男被打_Montage.uasset" SILENT=true
+[2020.09.02-07.28.25:246][343]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/羊男被打_Montage661ADFE1430B6EB0F15E198EEFE96093.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/羊男被打_Montage.uasset'
+[2020.09.02-07.28.25:463][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.09.02-07.28.25:510][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.09.02-07.28.25:546][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.02-07.28.25:606][343]AssetCheck: New page: Asset Save: 羊男被打_Montage
+[2020.09.02-07.28.25:606][343]LogContentValidation: Display: Validating AnimMontage /Game/Day21_Movement/羊男被打_Montage.羊男被打_Montage
+[2020.09.02-07.28.34:601][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_Movement/羊男死亡_Montage" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/羊男死亡_Montage.uasset" SILENT=true
+[2020.09.02-07.28.34:614][ 54]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/羊男死亡_Montage0C669DA04EA1D48A2F5B5AA7A12C4C04.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_Movement/羊男死亡_Montage.uasset'
+[2020.09.02-07.28.34:829][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.09.02-07.28.34:877][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.09.02-07.28.34:915][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.09.02-07.28.34:976][ 54]AssetCheck: New page: Asset Save: 羊男死亡_Montage
+[2020.09.02-07.28.34:976][ 54]LogContentValidation: Display: Validating AnimMontage /Game/Day21_Movement/羊男死亡_Montage.羊男死亡_Montage
+[2020.09.02-07.28.39:379][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.09.02-07.30.11:720][284]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.30.11:720][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.30.18:630][880]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Zombie_BP/Zombie_BA.Zombie_BA
+[2020.09.02-07.30.18:636][880]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-07.30.18:911][880]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-07.30.23:950][390]LogSlate: Window 'Zombie_BA' being destroyed
+[2020.09.02-07.30.51:474][636]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.30.51:474][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.30.51:479][636]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.30.51:479][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.30.51:590][636]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.30.51:590][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.31.57:983][276]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Zombie_BP/Zombie_殭屍移動_BlendSpace.Zombie_殭屍移動_BlendSpace
+[2020.09.02-07.31.57:988][276]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-07.31.58:011][276]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-07.31.58:254][276]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.02-07.32.11:132][793]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.32.11:132][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.32.11:220][793]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.32.11:220][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.32.14:433][ 75]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Zombie_BP/Zombie_BA.Zombie_BA
+[2020.09.02-07.32.14:439][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-07.32.14:642][ 75]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-07.32.26:662][479]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.32.26:662][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.32.26:668][479]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.32.26:668][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.32.26:776][479]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.32.26:776][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.33.12:531][876]BlueprintLog: New page: Compile Day21_BP
+[2020.09.02-07.33.12:877][876]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.09.02-07.33.14:272][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.02-07.33.14:332][ 31]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BPD7D288C14695331A418DABBA6803BDF0.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.02-07.33.14:344][ 31]AssetCheck: New page: Asset Save: Day21_BP
+[2020.09.02-07.33.14:344][ 31]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.02-07.35.46:390][638]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Zombie_Movement/殭屍攻擊_Zombie_Attack.殭屍攻擊_Zombie_Attack
+[2020.09.02-07.35.46:394][638]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-07.35.46:464][638]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-07.35.46:714][638]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.02-07.35.50:572][ 42]LogSlate: Window '殭屍攻擊_Zombie_Attack' being destroyed
+[2020.09.02-07.35.50:576][ 42]LogSlate: Window '殭屍攻擊_Zombie_Attack' being destroyed
+[2020.09.02-07.35.50:576][ 42]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.35.50:576][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.35.50:610][ 42]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.35.50:610][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.35.50:683][ 42]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.35.50:683][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.35.53:856][319]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Zombie_Movement/殭屍攻擊_Montage.殭屍攻擊_Montage
+[2020.09.02-07.35.53:860][319]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.02-07.35.53:914][319]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.02-07.35.54:170][319]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.02-07.36.07:377][828]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.02-07.36.46:735][144]LogSlate: Window '殭屍攻擊_Montage' being destroyed
+[2020.09.02-07.37.53:085][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_Movement/殭屍攻擊_Montage" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_Movement/殭屍攻擊_Montage.uasset" SILENT=true
+[2020.09.02-07.37.53:109][978]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/殭屍攻擊_MontageC5E62C75471BD21CD7956A87E0BA61D3.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_Movement/殭屍攻擊_Montage.uasset'
+[2020.09.02-07.37.53:122][978]AssetCheck: New page: Asset Save: 殭屍攻擊_Montage
+[2020.09.02-07.37.53:122][978]LogContentValidation: Display: Validating AnimMontage /Game/Zombie_Movement/殭屍攻擊_Montage.殭屍攻擊_Montage
+[2020.09.02-07.37.58:788][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.09.02-07.37.58:810][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAPS/遊戲關卡01" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-07.37.58:845][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.09.02-07.37.58:889][634]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01729DD7DD48856509CF3821947C1BDE75.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap'
+[2020.09.02-07.37.58:918][634]LogFileHelpers: Saving map '遊戲關卡01' took 0.109
+[2020.09.02-07.37.58:918][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/BW_介面" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/BW_介面.uasset" SILENT=true
+[2020.09.02-07.37.58:943][634]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/BW_介面552D86DA4573B88BE6A4158A4A388796.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/BW_介面.uasset'
+[2020.09.02-07.37.58:953][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_BP/Zombie_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset" SILENT=true
+[2020.09.02-07.37.58:997][634]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BPD0744AB4426E992874AAA6B310F1D743.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
+[2020.09.02-07.37.59:018][634]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/殭屍_Ch10_nonPBR_Skeleton24897B9E4A87837F5E512EB323BF7D84.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_Character/殭屍_Ch10_nonPBR_Skeleton.uasset'
+[2020.09.02-07.37.59:043][634]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.02-07.37.59:043][634]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.02-07.37.59:043][634]LogContentValidation: Display: Validating WidgetBlueprint /Game/Day21_BP/BW_介面.BW_介面
+[2020.09.02-07.37.59:043][634]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
+[2020.09.02-07.37.59:043][634]LogContentValidation: Display: Validating Skeleton /Game/Zombie_Character/殭屍_Ch10_nonPBR_Skeleton.殭屍_Ch10_nonPBR_Skeleton
+[2020.09.02-07.37.59:774][717]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.37.59:774][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.37.59:873][717]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-07.37.59:873][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.02-07.38.01:198][871]BlueprintLog: New page: Compile Zombie_BP
+[2020.09.02-07.38.01:457][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.09.02-07.38.01:870][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_BP/Zombie_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset" SILENT=true
+[2020.09.02-07.38.01:936][914]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BPD4152098497B8C8A9F2110AB45C51176.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
+[2020.09.02-07.38.01:947][914]AssetCheck: New page: Asset Save: Zombie_BP
+[2020.09.02-07.38.01:947][914]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
+[2020.09.02-07.47.24:506][969]LogEditorTransaction: Undo Move Node
+[2020.09.02-07.48.59:275][ 81]LogEditorTransaction: Undo Move Node
+[2020.09.02-07.49.00:509][176]LogEditorTransaction: Undo Paste clipboard contents
+[2020.09.02-07.49.25:010][ 66]BlueprintLog: New page: Compile Day21_BP
+[2020.09.02-07.49.25:289][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.09.02-07.49.25:684][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.02-07.49.25:795][101]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BPC33AE11D41A4BFD846541BA60B3AE093.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.02-07.49.25:810][101]AssetCheck: New page: Asset Save: Day21_BP
+[2020.09.02-07.49.25:810][101]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.02-07.49.47:532][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.09.02-07.49.47:582][411]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01_Auto0016AF20048CD3226F0170E849718508F.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/MAPS/遊戲關卡01_Auto0.umap'
+[2020.09.02-07.49.47:583][411]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MAPS/遊戲關卡01' took 0.083
+[2020.09.02-07.49.47:583][411]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2020.09.02-07.49.47:583][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie_BP/Zombie_BP] ([1] browsable assets)...
+[2020.09.02-07.49.47:593][411]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP]
+[2020.09.02-07.49.47:593][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_BP/Zombie_BP]
+[2020.09.02-07.49.47:636][411]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BP_Auto0F61C32DA4D86880FC1106CB0B1D82CEC.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/Zombie_BP/Zombie_BP_Auto0.uasset'
+[2020.09.02-07.49.47:636][411]LogFileHelpers: Auto-saving content packages took 0.054
