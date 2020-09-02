@@ -4742,37 +4742,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-09.23.29:419][580]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
 [2020.09.02-09.23.36:987][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
 [2020.09.02-09.27.09:630][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: === Critical error: ===
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: 
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: Fatal error!
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: 
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000018
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: 
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: [Callstack] 0x00007ffa071df0c7 UE4Editor-Kismet.dll!UnknownFunction []
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: [Callstack] 0x00007ffa071a7a04 UE4Editor-Kismet.dll!UnknownFunction []
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: [Callstack] 0x00007ffa01cee3cb UE4Editor-GraphEditor.dll!UnknownFunction []
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: [Callstack] 0x00007ffa01c75354 UE4Editor-GraphEditor.dll!UnknownFunction []
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: [Callstack] 0x00007ffa01ce3efc UE4Editor-GraphEditor.dll!UnknownFunction []
-[2020.09.02-09.29.31:384][ 16]LogWindows: Error: [Callstack] 0x00007ffa07d92652 UE4Editor-Slate.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa07e1834f UE4Editor-Slate.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa07e04ae5 UE4Editor-Slate.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa07df8ce2 UE4Editor-Slate.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa17984ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa1797242f UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa17987195 UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa1796ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa38f363ed USER32.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa38f35de2 USER32.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa17988699 UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ff61d846db0 UE4Editor.exe!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ff61d85c3ec UE4Editor.exe!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ff61d85c4ca UE4Editor.exe!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ff61d86ceae UE4Editor.exe!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ff61d86fcbe UE4Editor.exe!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa399a7bd4 KERNEL32.DLL!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: [Callstack] 0x00007ffa39b6ced1 ntdll.dll!UnknownFunction []
-[2020.09.02-09.29.31:385][ 16]LogWindows: Error: 
-[2020.09.02-09.29.31:401][ 16]LogExit: Executing StaticShutdownAfterError
-[2020.09.02-09.29.31:508][ 16]LogWindows: FPlatformMisc::RequestExit(1)
-[2020.09.02-09.29.31:508][ 16]LogCore: Engine exit requested (reason: Win RequestExit)
-[2020.09.02-09.29.31:539][ 16]Log file closed, 09/02/20 17:29:31
