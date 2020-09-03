@@ -871,3 +871,60 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.03-05.45.01:081][382]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.03-05.45.01:081][382]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
 [2020.09.03-05.45.01:081][382]LogContentValidation: Display: Validating AnimMontage /Game/Zombie_Movement/殭屍被打_Montage.殭屍被打_Montage
+[2020.09.03-05.46.52:557][729]LogEditorTransaction: Undo Move Nodes
+[2020.09.03-05.46.52:625][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.03-05.47.01:532][746]BlueprintLog: New page: Compile Zombie_BP
+[2020.09.03-05.47.01:846][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.09.03-05.47.02:109][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_BP/Zombie_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset" SILENT=true
+[2020.09.03-05.47.02:156][766]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BPBB65D3C04C2F09DFD7232BB66A63CD2E.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
+[2020.09.03-05.47.02:167][766]AssetCheck: New page: Asset Save: Zombie_BP
+[2020.09.03-05.47.02:167][766]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
+[2020.09.03-05.47.04:703][ 45]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.47.04:703][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.47.04:804][ 45]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.47.04:804][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.49.49:734][748]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2020.09.03-05.49.49:734][748]LogTemp: Resetting audio stream to device id 
+[2020.09.03-05.55.47:067][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.09.03-05.55.47:133][853]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01_Auto20171E5D14E49004D6D597BBF20EA6CB9.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/MAPS/遊戲關卡01_Auto2.umap'
+[2020.09.03-05.55.47:137][853]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MAPS/遊戲關卡01' took 0.116
+[2020.09.03-05.55.47:137][853]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.116
+[2020.09.03-05.55.47:137][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie_Movement/殭屍被打_Montage] ([1] browsable assets)...
+[2020.09.03-05.55.47:155][853]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Zombie_Movement/殭屍被打_Montage.殭屍被打_Montage]
+[2020.09.03-05.55.47:155][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie_Movement/殭屍被打_Montage]
+[2020.09.03-05.55.47:202][853]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/殭屍被打_Montage_Auto24FA08BA34A50701135C2BF8AED66DDD5.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/Zombie_Movement/殭屍被打_Montage_Auto2.uasset'
+[2020.09.03-05.55.47:203][853]LogFileHelpers: Auto-saving content packages took 0.066
+[2020.09.03-05.56.33:311][ 86]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3088183b-517c-4fcf-9495-f857c291c84b}.
+[2020.09.03-05.56.33:311][ 86]LogTemp: Resetting audio stream to device id 
+[2020.09.03-05.56.33:325][ 86]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.03-05.56.33:325][ 86]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.56.33:325][ 86]LogAudioMixer: Display: Is Default: Yes
+[2020.09.03-05.56.33:325][ 86]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.03-05.56.33:325][ 86]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.03-05.56.33:325][ 86]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.03-05.56.33:325][ 86]LogAudioMixer: Display: Channel Order:
+[2020.09.03-05.56.33:325][ 86]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.03-05.56.33:325][ 86]LogAudioMixer: Display: 1: FrontRight
+[2020.09.03-06.02.06:404][ 65]LogEditorTransaction: Undo Move Node
+[2020.09.03-06.05.29:663][143]BlueprintLog: New page: Compile Day21_BP
+[2020.09.03-06.05.29:979][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.09.03-06.05.30:373][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.03-06.05.30:453][177]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BPB076CE7446C894F6F9E842893D2C3BD1.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.03-06.05.30:469][177]AssetCheck: New page: Asset Save: Day21_BP
+[2020.09.03-06.05.30:469][177]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.03-06.07.06:056][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.09.03-06.07.06:071][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAPS/遊戲關卡01" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-06.07.06:109][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.03-06.07.06:172][ 29]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01D6D91ACF4AFB9E776F12BEB8ED01B42C.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap'
+[2020.09.03-06.07.06:204][ 29]LogFileHelpers: Saving map '遊戲關卡01' took 0.133
+[2020.09.03-06.07.06:213][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_BP/Zombie_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset" SILENT=true
+[2020.09.03-06.07.06:265][ 29]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Zombie_BPA96CEA3345CB7A7BDA6B6891CB564578.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_BP/Zombie_BP.uasset'
+[2020.09.03-06.07.06:265][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.03-06.07.06:336][ 29]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BPD52608594E390883A18782AFACACB23A.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.03-06.07.06:338][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie_Movement/殭屍被打_Montage" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_Movement/殭屍被打_Montage.uasset" SILENT=true
+[2020.09.03-06.07.06:360][ 29]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/殭屍被打_Montage83DF0E9543FD5E92AB020CAED51D29F5.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Zombie_Movement/殭屍被打_Montage.uasset'
+[2020.09.03-06.07.06:387][ 29]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.03-06.07.06:387][ 29]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.03-06.07.06:387][ 29]LogContentValidation: Display: Validating Blueprint /Game/Zombie_BP/Zombie_BP.Zombie_BP
+[2020.09.03-06.07.06:387][ 29]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.03-06.07.06:387][ 29]LogContentValidation: Display: Validating AnimMontage /Game/Zombie_Movement/殭屍被打_Montage.殭屍被打_Montage
