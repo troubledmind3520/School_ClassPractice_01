@@ -1777,3 +1777,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.03-02.22.56:998][561]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01_Auto2CCD67A694B8E318F3E2924AE674403E1.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/MAPS/遊戲關卡01_Auto2.umap'
 [2020.09.03-02.22.56:999][561]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MAPS/遊戲關卡01' took 0.102
 [2020.09.03-02.22.56:999][561]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.102
+[2020.09.03-02.28.06:372][514]LogEditorTransaction: Undo Move Node
+[2020.09.03-02.28.15:220][516]LogEditorTransaction: Undo Paste clipboard contents
+[2020.09.03-02.32.57:084][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.09.03-02.32.57:086][877]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MAPS/遊戲關卡01' took 0.037
+[2020.09.03-02.32.57:086][877]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Day21_BP/Day21_BP] ([1] browsable assets)...
+[2020.09.03-02.32.57:102][877]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Day21_BP/Day21_BP.Day21_BP]
+[2020.09.03-02.32.57:103][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/Day21_BP/Day21_BP]
+[2020.09.03-02.32.57:176][877]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BP_Auto3762DEA3C45CCC2182F3EA9BB39BB8F0D.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/Day21_BP/Day21_BP_Auto3.uasset'
+[2020.09.03-02.32.57:177][877]LogFileHelpers: Auto-saving content packages took 0.091
+[2020.09.03-02.33.42:578][296]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Day21_BP/BW_結束介面.BW_結束介面
+[2020.09.03-02.33.47:417][785]LogSlate: Window 'BW_結束介面' being destroyed
+[2020.09.03-02.34.40:735][ 82]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.03-02.34.47:857][921]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.03-02.34.56:511][948]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.03-02.35.14:317][ 67]LogEditorTransaction: Undo Resize Widget
+[2020.09.03-02.35.16:613][296]LogEditorTransaction: Undo Resize Widget
+[2020.09.03-02.35.19:741][669]LogEditorTransaction: Undo Resize Widget
+[2020.09.03-02.35.50:505][291]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.03-02.35.53:437][635]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.03-02.36.21:040][905]LogEditorTransaction: Undo Move Anchor
+[2020.09.03-02.38.21:215][254]BlueprintLog: New page: Compile BW_結束介面
+[2020.09.03-02.38.21:507][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.09.03-02.38.24:059][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.09.03-02.38.24:085][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAPS/遊戲關卡01" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-02.38.24:123][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.03-02.38.24:185][537]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01DD6CCFB14C44D05F6E7AB68903C97222.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap'
+[2020.09.03-02.38.24:218][537]LogFileHelpers: Saving map '遊戲關卡01' took 0.133
+[2020.09.03-02.38.24:219][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.03-02.38.24:287][537]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BP3A606CD842CB5625E332AEAFE8869A3C.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.03-02.38.24:289][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/BW_結束介面" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/BW_結束介面.uasset" SILENT=true
+[2020.09.03-02.38.24:297][537]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/BW_結束介面2E5564394C5C7A1E4975EABF9353EEC0.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/BW_結束介面.uasset'
+[2020.09.03-02.38.24:320][537]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.03-02.38.24:320][537]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.03-02.38.24:320][537]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.03-02.38.24:320][537]LogContentValidation: Display: Validating WidgetBlueprint /Game/Day21_BP/BW_結束介面.BW_結束介面
