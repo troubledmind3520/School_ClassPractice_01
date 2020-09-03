@@ -1812,3 +1812,144 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.03-02.38.24:320][537]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
 [2020.09.03-02.38.24:320][537]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
 [2020.09.03-02.38.24:320][537]LogContentValidation: Display: Validating WidgetBlueprint /Game/Day21_BP/BW_結束介面.BW_結束介面
+[2020.09.03-02.43.24:597][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.09.03-03.29.48:288][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.09.03-03.29.48:291][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MAPS/遊戲關卡01' took 0.043
+[2020.09.03-03.29.48:291][783]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Day21_BP/Day21_BP] ([1] browsable assets)...
+[2020.09.03-03.29.48:310][783]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Day21_BP/Day21_BP.Day21_BP]
+[2020.09.03-03.29.48:310][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/Day21_BP/Day21_BP]
+[2020.09.03-03.29.48:384][783]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BP_Auto4DAAF761944C425F98EC04BAC8DD25DCB.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Autosaves/Game/Day21_BP/Day21_BP_Auto4.uasset'
+[2020.09.03-03.29.48:385][783]LogFileHelpers: Auto-saving content packages took 0.095
+[2020.09.03-03.32.06:878][122]LogEditorTransaction: Undo Move Node
+[2020.09.03-03.33.18:865][199]BlueprintLog: New page: Compile Day21_BP
+[2020.09.03-03.33.19:182][199]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.09.03-03.33.19:565][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.03-03.33.19:637][225]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BP6ECDE0B7402A15BA8E5A08BF9676DD2A.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.03-03.33.19:653][225]AssetCheck: New page: Asset Save: Day21_BP
+[2020.09.03-03.33.19:653][225]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.03-03.34.23:007][ 81]BlueprintLog: New page: Compile Day21_BP
+[2020.09.03-03.34.23:319][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.09.03-03.34.23:699][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.03-03.34.23:773][107]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BP2AC9218345E25AD739AF7D86E908CE9E.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.03-03.34.23:786][107]AssetCheck: New page: Asset Save: Day21_BP
+[2020.09.03-03.34.23:786][107]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.03-03.34.40:758][ 99]BlueprintLog: New page: Compile Day21_BP
+[2020.09.03-03.34.41:074][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.09.03-03.34.41:351][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Day21_BP/Day21_BP" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset" SILENT=true
+[2020.09.03-03.34.41:423][112]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Day21_BPAE6B311D48EDB71DB358C5ABB4800F67.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Day21_BP/Day21_BP.uasset'
+[2020.09.03-03.34.41:436][112]AssetCheck: New page: Asset Save: Day21_BP
+[2020.09.03-03.34.41:436][112]LogContentValidation: Display: Validating Blueprint /Game/Day21_BP/Day21_BP.Day21_BP
+[2020.09.03-03.34.42:082][188]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.03-03.34.42:106][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-03.34.42:106][188]PIE: New page: PIE session: 遊戲關卡01 (2020年9月3日 下午7:34:42)
+[2020.09.03-03.34.42:106][188]LogPlayLevel: Creating play world package: /Game/MAPS/UEDPIE_0_遊戲關卡01
+[2020.09.03-03.34.42:114][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008017s)
+[2020.09.03-03.34.42:115][188]LogAIModule: Creating AISystem for world 遊戲關卡01
+[2020.09.03-03.34.42:115][188]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2020.09.03-03.34.42:115][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAPS/遊戲關卡01.遊戲關卡01 to /Game/MAPS/UEDPIE_0_遊戲關卡01.遊戲關卡01 (0.008795s)
+[2020.09.03-03.34.42:153][188]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.09.03-03.34.42:154][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-03.34.42:154][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-03.34.42:154][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-03.34.42:154][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-03.34.42:154][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-03.34.42:154][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-03.34.42:154][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-03.34.42:154][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-03.34.42:154][188]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-03.34.42:154][188]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-03.34.42:159][188]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.03-03.34.42:159][188]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.03-03.34.42:159][188]LogAudioMixer: Display: Is Default: Yes
+[2020.09.03-03.34.42:159][188]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.03-03.34.42:159][188]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.03-03.34.42:159][188]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.03-03.34.42:159][188]LogAudioMixer: Display: Channel Order:
+[2020.09.03-03.34.42:159][188]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.03-03.34.42:159][188]LogAudioMixer: Display: 1: FrontRight
+[2020.09.03-03.34.42:251][188]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek(R) Audio)
+[2020.09.03-03.34.42:252][188]LogInit: FAudioDevice initialized.
+[2020.09.03-03.34.42:289][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.34.42:289][188]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-03.34.42:296][188]LogWorld: Bringing World /Game/MAPS/UEDPIE_0_遊戲關卡01.遊戲關卡01 up for play (max tick rate 0) at 2020.09.03-11.34.42
+[2020.09.03-03.34.42:297][188]LogWorld: Bringing up level for play took: 0.007248
+[2020.09.03-03.34.42:297][188]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.09.03-03.34.42:304][188]PIE: Play in editor start time for /Game/MAPS/UEDPIE_0_遊戲關卡01 -0.049
+[2020.09.03-03.34.45:841][257]LogBlueprintUserMessages: [Day21_BP_C_0] BP_鑰匙
+[2020.09.03-03.34.50:933][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.34.50:934][355]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-03.34.50:954][355]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-03.34.50:954][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.34.50:954][355]LogWorld: BeginTearingDown for /Game/MAPS/UEDPIE_0_遊戲關卡01
+[2020.09.03-03.34.50:969][355]LogSlate: Window 'Day21 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.03-03.34.51:047][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.34.51:047][355]LogWorld: UWorld::CleanupWorld for 遊戲關卡01, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-03.34.51:049][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.34.51:095][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-03.34.51:102][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.34.51:140][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.34.51:147][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.09.03-03.34.51:166][356]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.09.03-03.34.52:599][525]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.03-03.34.52:622][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-03.34.52:622][525]PIE: New page: PIE session: 遊戲關卡01 (2020年9月3日 下午7:34:52)
+[2020.09.03-03.34.52:622][525]LogPlayLevel: Creating play world package: /Game/MAPS/UEDPIE_0_遊戲關卡01
+[2020.09.03-03.34.52:630][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007985s)
+[2020.09.03-03.34.52:630][525]LogAIModule: Creating AISystem for world 遊戲關卡01
+[2020.09.03-03.34.52:631][525]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2020.09.03-03.34.52:631][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAPS/遊戲關卡01.遊戲關卡01 to /Game/MAPS/UEDPIE_0_遊戲關卡01.遊戲關卡01 (0.008767s)
+[2020.09.03-03.34.52:671][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.09.03-03.34.52:672][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-03.34.52:672][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-03.34.52:672][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-03.34.52:672][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-03.34.52:672][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-03.34.52:672][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-03.34.52:672][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-03.34.52:672][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-03.34.52:672][525]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-03.34.52:672][525]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-03.34.52:676][525]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.03-03.34.52:676][525]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.03-03.34.52:676][525]LogAudioMixer: Display: Is Default: Yes
+[2020.09.03-03.34.52:676][525]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.03-03.34.52:676][525]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.03-03.34.52:676][525]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.03-03.34.52:676][525]LogAudioMixer: Display: Channel Order:
+[2020.09.03-03.34.52:676][525]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.03-03.34.52:676][525]LogAudioMixer: Display: 1: FrontRight
+[2020.09.03-03.34.52:763][525]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek(R) Audio)
+[2020.09.03-03.34.52:764][525]LogInit: FAudioDevice initialized.
+[2020.09.03-03.34.52:805][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.34.52:806][525]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-03.34.52:812][525]LogWorld: Bringing World /Game/MAPS/UEDPIE_0_遊戲關卡01.遊戲關卡01 up for play (max tick rate 0) at 2020.09.03-11.34.52
+[2020.09.03-03.34.52:813][525]LogWorld: Bringing up level for play took: 0.007030
+[2020.09.03-03.34.52:814][525]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.09.03-03.34.52:820][525]PIE: Play in editor start time for /Game/MAPS/UEDPIE_0_遊戲關卡01 0.467
+[2020.09.03-03.34.59:383][634]LogAnimMontage: Warning: Playing a Montage (殭屍被打_Montage) for the wrong Skeleton (Ch40_nonPBR_Skeleton) instead of (殭屍_Ch10_nonPBR_Skeleton).
+[2020.09.03-03.35.02:701][689]LogAnimMontage: Warning: Playing a Montage (殭屍被打_Montage) for the wrong Skeleton (Ch40_nonPBR_Skeleton) instead of (殭屍_Ch10_nonPBR_Skeleton).
+[2020.09.03-03.35.02:762][690]LogAnimMontage: Warning: Playing a Montage (殭屍被打_Montage) for the wrong Skeleton (Ch40_nonPBR_Skeleton) instead of (殭屍_Ch10_nonPBR_Skeleton).
+[2020.09.03-03.35.03:190][697]LogAnimMontage: Warning: Playing a Montage (殭屍被打_Montage) for the wrong Skeleton (Ch40_nonPBR_Skeleton) instead of (殭屍_Ch10_nonPBR_Skeleton).
+[2020.09.03-03.35.05:937][743]LogAnimMontage: Warning: Playing a Montage (殭屍被打_Montage) for the wrong Skeleton (Ch40_nonPBR_Skeleton) instead of (殭屍_Ch10_nonPBR_Skeleton).
+[2020.09.03-03.35.13:507][870]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.35.13:514][870]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-03.35.13:534][870]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-03.35.13:534][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.35.13:534][870]LogWorld: BeginTearingDown for /Game/MAPS/UEDPIE_0_遊戲關卡01
+[2020.09.03-03.35.13:550][870]LogSlate: Window 'Day21 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.03-03.35.13:633][870]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.35.13:634][870]LogWorld: UWorld::CleanupWorld for 遊戲關卡01, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-03.35.13:635][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.35.13:688][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-03.35.13:695][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.35.13:733][870]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.35.13:740][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.09.03-03.35.13:759][871]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.09.03-03.35.15:700][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.09.03-03.35.15:719][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAPS/遊戲關卡01" FILE="../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-03.35.15:759][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.03-03.35.15:820][ 94]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/遊戲關卡01DA61CCA548724BE2493B038CF3AE3195.tmp' to '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/MAPS/遊戲關卡01.umap'
+[2020.09.03-03.35.15:851][ 94]LogFileHelpers: Saving map '遊戲關卡01' took 0.132
+[2020.09.03-03.35.15:863][ 94]AssetCheck: New page: Asset Save: 遊戲關卡01
+[2020.09.03-03.35.15:863][ 94]LogContentValidation: Display: Validating World /Game/MAPS/遊戲關卡01.遊戲關卡01
+[2020.09.03-03.35.18:443][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
