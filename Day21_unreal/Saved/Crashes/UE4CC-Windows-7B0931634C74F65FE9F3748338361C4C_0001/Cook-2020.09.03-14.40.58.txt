@@ -1,0 +1,1794 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+Stats thread started at 4.914963
+Loaded GFSDK_Aftermath_Lib.x64.dll
+ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+Mounting plugin Paper2D
+Mounting plugin AISupport
+Mounting plugin LightPropagationVolume
+Mounting plugin ActorLayerUtilities
+Mounting plugin AnimationSharing
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin PerforceSourceControl
+Mounting plugin PlasticSourceControl
+Mounting plugin SubversionSourceControl
+Mounting plugin UObjectPlugin
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin AssetManagerEditor
+Mounting plugin CryptoKeys
+Mounting plugin CurveEditorTools
+Mounting plugin DataValidation
+Mounting plugin FacialAnimation
+Mounting plugin GameplayTagsEditor
+Mounting plugin MacGraphicsSwitching
+Mounting plugin MaterialAnalyzer
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin PluginBrowser
+Mounting plugin SpeedTreeImporter
+Mounting plugin DatasmithContent
+Mounting plugin VariantManagerContent
+Mounting plugin AlembicImporter
+Mounting plugin AutomationUtils
+Mounting plugin BackChannel
+Mounting plugin CharacterAI
+Mounting plugin GeometryCache
+Mounting plugin PlatformCrypto
+Mounting plugin ProxyLODPlugin
+Mounting plugin SkeletalReduction
+Mounting plugin MagicLeap
+Mounting plugin MagicLeapMedia
+Mounting plugin MLSDK
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin ImgMedia
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin WebMMedia
+Mounting plugin WmfMedia
+Mounting plugin TcpMessaging
+Mounting plugin UdpMessaging
+Mounting plugin ActorSequence
+Mounting plugin LevelSequenceEditor
+Mounting plugin MatineeToLevelSequence
+Mounting plugin NetcodeUnitTest
+Mounting plugin NUTUnrealEngine4
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OnlineSubsystem
+Mounting plugin OnlineSubsystemNull
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin LauncherChunkInstaller
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AndroidPermission
+Mounting plugin AppleImageUtils
+Mounting plugin AppleMoviePlayer
+Mounting plugin ArchVisCharacter
+Mounting plugin AssetTags
+Mounting plugin AudioCapture
+Mounting plugin CableComponent
+Mounting plugin CustomMeshComponent
+Mounting plugin EditableMesh
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin GoogleCloudMessaging
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin OculusVR
+Mounting plugin PhysXVehicles
+Mounting plugin PostSplashScreen
+Mounting plugin ProceduralMeshComponent
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SignificanceManager
+Mounting plugin SteamVR
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin ScreenshotTools
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Build: ++UE4+Release-4.24-CL-10757647
+Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+Net CL: 10570792
+OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA Quadro P1000
+Compiled (64-bit): Dec 17 2019 02:08:03
+Compiled with Visual C++: 19.16.27032.01
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.24
+Command Line:  C:\Users\IM\Desktop\School_ClassPractice_01\Day21_unreal\Day21.uproject -run=Cook -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.09.03-14.40.58.txt" -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output
+Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+Installed Engine Build: 1
+Number of dev versions registered: 25
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:1]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 16 GB [17048686592 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:1]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Config/Windows/Engine.ini]
+Computer: M514-050
+User: IM
+CPU Page size=4096, Cores=6
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=15.9GB (16GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 105.75 MB used, 105.76 MB peak
+Process Virtual Memory: 101.41 MB used, 101.41 MB peak
+Physical Memory: 7679.31 MB used,  8579.58 MB free, 16258.89 MB total
+Virtual Memory: 5158.81 MB used,  134212568.00 MB free, 134217728.00 MB total
+WindowsPlatformFeatures enabled
+Using OS detected language (zh-TW).
+Using OS detected locale (zh-TW).
+No localization for 'zh-TW' exists, so 'en' will be used for the language.
+Loaded TargetPlatform 'AllDesktop'
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_ATC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC1'
+Loaded TargetPlatform 'Android_ETC1a'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'Android_PVRTC'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_ATCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC1Client'
+Loaded TargetPlatform 'Android_ETC1aClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_PVRTCClient'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'LinuxNoEditor'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxAArch64NoEditor'
+Loaded TargetPlatform 'LinuxAArch64Client'
+Loaded TargetPlatform 'LinuxAArch64Server'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'WindowsNoEditor'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsClient'
+Loaded TargetPlatform 'WindowsServer'
+Building Assets For WindowsNoEditor
+Lib vorbis DLL was dynamically loaded.
+Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Intermediate/Shaders/WorkingDirectory/1288/).
+Cleaned the shader compiler working directory 'C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 1.20s 78MB C:/Users/IM/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/IM/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Using Local data cache path C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+FAssetRegistry took 0.0015 seconds to start up
+Selected Device Profile: [Windows]
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+Day21 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1926807228)
+Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.043660 seconds
+Loaded 0 collections in 0.000674 seconds
+Scanning file cache for directory 'C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Developers/IM/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/Collections/' took 0.00s
+Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+OculusInput pre-init called
+Failed to load 'OVRPlugin.dll' (GetLastError=126)
+File 'OVRPlugin.dll' does not exist
+53072 objects as part of root set at end of initial load.
+9401792 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Executing Class /Script/UnrealEd.CookCommandlet
+Initializing Editor Engine...
+Initializing Engine...
+UGameplayTagsManager::InitializeManager -  0.000 s
+Initializing FReadOnlyCVARCache
+Creating AISystem for world Untitled
+Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+Saved boot cache 1.12s 78MB C:/Users/IM/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+Texture streaming: Disabled
+Initializing Editor Engine Completed
+New page: Editor Load
+Max memory allowance for cook 16384mb min free memory 0mb
+Mobile HDR setting 1
+Creating asset registry
+Discovering localized assets
+Cooked content cleared for platform WindowsNoEditor
+Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+Sandbox cleanup took 1.613 seconds for platforms WindowsNoEditor  iterative false
+Verifying Global Shaders for PCD3D_SM5
+Searching using wildcard: '../../../Engine/Content/*.uasset'
+Searching using wildcard: '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/2D/Paper2D/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Developer/AnimationSharing/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Lumin/MagicLeap/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Media/MediaCompositing/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/PostSplashScreen/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Content/*.umap'
+Searching using wildcard: '../../../../../../Users/IM/Desktop/School_ClassPractice_01/Day21_unreal/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/2D/Paper2D/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Developer/AnimationSharing/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Lumin/MagicLeap/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Media/MediaCompositing/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/PostSplashScreen/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/*.umap'
+Cooked packages 0 Packages Remain 1790 Total 1790
+Cooked packages 50 Packages Remain 1789 Total 1839
+Cooked packages 100 Packages Remain 1788 Total 1888
+Creating AISystem for world 遊戲關卡01
+UWorld::CleanupWorld for 遊戲關卡01, bSessionEnded=true, bCleanupResources=true
+Cooked packages 150 Packages Remain 1789 Total 1939
+Cooked packages 200 Packages Remain 1792 Total 1992
+Cooked packages 250 Packages Remain 1791 Total 2041
+Cooked packages 300 Packages Remain 1790 Total 2090
+Cooked packages 300 Packages Remain 1646 Total 1946
+Cooked packages 327 Packages Remain 1645 Total 1972
+Creating AISystem for world Entry
+UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+Cooked packages 332 Packages Remain 1644 Total 1976
+Creating AISystem for world ThirdPersonExampleMap
+UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+Cooked packages 335 Packages Remain 1652 Total 1987
+Creating AISystem for world StarterMap
+UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+Cooked packages 385 Packages Remain 1654 Total 2039
+Cooked packages 435 Packages Remain 1654 Total 2089
+Creating AISystem for world Advanced_Lighting
+UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+Cooked packages 485 Packages Remain 1654 Total 2139
+Creating AISystem for world Demonstration
+UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+Cooked packages 535 Packages Remain 1653 Total 2188
+Creating AISystem for world Overview
+RegisterComponentWithWorld: (/Game/InfinityBladeWeapons/Maps/Overview.Overview:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+/Game/InfinityBladeWeapons/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+/Game/InfinityBladeWeapons/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+/Game/InfinityBladeWeapons/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+/Game/InfinityBladeWeapons/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+/Game/InfinityBladeWeapons/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+/Game/InfinityBladeWeapons/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+/Game/InfinityBladeWeapons/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+/Game/InfinityBladeWeapons/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+/Game/InfinityBladeWeapons/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+/Game/InfinityBladeWeapons/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+RegisterComponentWithWorld: (/Game/InfinityBladeWeapons/Maps/Overview.Overview:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+Missing cached shader map for material M_Blade_Execution, compiling. 
+Worker (1/9): shaders left to compile 39
+Worker (2/9): shaders left to compile 34
+Worker (3/9): shaders left to compile 29
+Worker (4/9): shaders left to compile 24
+Worker (5/9): shaders left to compile 19
+Worker (6/9): shaders left to compile 14
+Worker (7/9): shaders left to compile 9
+Worker (8/9): shaders left to compile 4
+Missing cached shader map for material M_Blade_DeadlyAxe, compiling. 
+Missing cached shader map for material M_Blade_CrudeAxe, compiling. 
+Missing cached shader map for material M_Blade_BohntaPick, compiling. 
+Missing cached shader map for material M_Blade_AnthraciteAxe, compiling. 
+Cooked packages 585 Packages Remain 1652 Total 2237
+Cooked packages 635 Packages Remain 1650 Total 2285
+Building textures: T_CandleHolder_Bronze_C (AutoDXT, 4096X4096)
+Worker (8/9): shaders left to compile 156
+Worker (1/9): shaders left to compile 146
+Worker (6/9): shaders left to compile 136
+Worker (7/9): shaders left to compile 126
+Worker (2/9): shaders left to compile 116
+Worker (3/9): shaders left to compile 106
+Worker (4/9): shaders left to compile 96
+Cooked packages 685 Packages Remain 1634 Total 2319
+Worker (5/9): shaders left to compile 86
+Building textures: T_Mausoleum_Part_A_N (BC5, 2048X2048)
+Cooked packages 735 Packages Remain 1633 Total 2368
+Worker (1/9): shaders left to compile 76
+Worker (6/9): shaders left to compile 66
+Worker (7/9): shaders left to compile 57
+Worker (8/9): shaders left to compile 49
+Building textures: T_Coffin_Compact (AutoDXT, 2048X2048)
+Worker (5/9): shaders left to compile 42
+Worker (4/9): shaders left to compile 36
+Building textures: T_Mausoleum_Part_B_A (AutoDXT, 2048X2048)
+Building textures: T_Mausoleum_Part_B_C (AutoDXT, 2048X2048)
+Building textures: T_Mausoleum_Part_B_N (BC5, 2048X2048)
+Building textures: T_Mausoleum_Ceiling_A (AutoDXT, 4096X4096)
+Building textures: T_Mausoleum_Ceiling_C (AutoDXT, 4096X4096)
+Worker (3/9): shaders left to compile 31
+Worker (4/9): shaders left to compile 27
+Cooked packages 785 Packages Remain 1632 Total 2417
+Missing cached shader map for material M_Statue, compiling. 
+Missing cached shader map for material M_Statue_Stand_Inst, compiling. 
+Cooked packages 835 Packages Remain 1618 Total 2453
+Missing cached shader map for material M_Skeleton_Dirty, compiling. 
+Missing cached shader map for material M_Blade_FissureBlade, compiling. 
+Missing cached shader map for material M_Blade_FrostGiant, compiling. 
+Cooked packages 885 Packages Remain 1617 Total 2502
+Missing cached shader map for material M_Blade_GreatBlade, compiling. 
+Missing cached shader map for material M_Blade_Hatchet, compiling. 
+Missing cached shader map for material M_Blade_Hatchet02, compiling. 
+Missing cached shader map for material M_Blade_HeavyAxe, compiling. 
+Missing cached shader map for material M_Blade_IceElemental, compiling. 
+Missing cached shader map for material M_Blade_Segmented, compiling. 
+Missing cached shader map for material M_Blade_SegmentedB, compiling. 
+Missing cached shader map for material M_Blade_SkexyAxe, compiling. 
+Missing cached shader map for material M_Blade_SmAxe, compiling. 
+Missing cached shader map for material M_Blade_Snarl, compiling. 
+Missing cached shader map for material M_Blade_SpikeAxe, compiling. 
+Worker (6/9): shaders left to compile 593
+Missing cached shader map for material M_Blade_TAxe, compiling. 
+Missing cached shader map for material M_Blade_TechAxe, compiling. 
+Worker (2/9): shaders left to compile 661
+Worker (8/9): shaders left to compile 651
+Missing cached shader map for material M_Blade_ThornAxe, compiling. 
+Missing cached shader map for material M_Blade_Baguette, compiling. 
+Missing cached shader map for material M_Blade_Balloon, compiling. 
+Missing cached shader map for material M_Blade_BatAxe, compiling. 
+Missing cached shader map for material M_Blade_Bubblewand, compiling. 
+Missing cached shader map for material M_Blade_Chainsaw, compiling. 
+Missing cached shader map for material M_Blade_Driver, compiling. 
+Missing cached shader map for material M_Blade_Finger, compiling. 
+Building textures: T_Cell_Side_A (AutoDXT, 2048X2048)
+Building textures: T_Cell_Side_N (BC5, 2048X2048)
+Building textures: T_Fire_Pit_A (AutoDXT, 2048X2048)
+Missing cached shader map for material M_Blade_Sucker, compiling. 
+Missing cached shader map for material M_Blade_BlackKnight, compiling. 
+Building textures: T_Fire_Pit_N (BC5, 2048X2048)
+Missing cached shader map for material M_Blade_BlackWyrmBlade, compiling. 
+Missing cached shader map for material M_Blade_DragonSword, compiling. 
+Cooked packages 935 Packages Remain 1616 Total 2551
+Building textures: T_Mausoleum_Ceiling_N (BC5, 4096X4096)
+Missing cached shader map for material M_Blade_Fencer, compiling. 
+Missing cached shader map for material M_Blade_Glimmer, compiling. 
+Missing cached shader map for material M_Blade_HeroSword, compiling. 
+Missing cached shader map for material M_Blade_HeroSword11, compiling. 
+Missing cached shader map for material M_Blade_HeroSword16, compiling. 
+Missing cached shader map for material M_Blade_HeroSword17, compiling. 
+Missing cached shader map for material M_Blade_HeroSword22, compiling. 
+Missing cached shader map for material M_Blade_SwordA, compiling. 
+Missing cached shader map for material M_Blade_SwordB, compiling. 
+Missing cached shader map for material M_Blunt_Bell, compiling. 
+Missing cached shader map for material M_Blunt_Bludgeoner, compiling. 
+Missing cached shader map for material M_Blunt_CinderBlock, compiling. 
+Missing cached shader map for material M_Blunt_Core, compiling. 
+Missing cached shader map for material M_Blunt_CrudeHammer, compiling. 
+Missing cached shader map for material M_Blunt_FrostGiant, compiling. 
+Missing cached shader map for material M_Blunt_GuitarHammer, compiling. 
+Missing cached shader map for material M_Blunt_Hambone, compiling. 
+Missing cached shader map for material M_Blunt_Hellhammer, compiling. 
+Missing cached shader map for material M_Blunt_Hellhammer_Cine, compiling. 
+Missing cached shader map for material M_Blunt_IceElemental, compiling. 
+Missing cached shader map for material M_Blunt_JudgeHammer, compiling. 
+Missing cached shader map for material M_Blunt_MeatTenderizer, compiling. 
+Cooked packages 985 Packages Remain 1585 Total 2570
+Building textures: T_Decorative_Arches_A (AutoDXT, 2048X2048)
+Building textures: T_Decorative_Arches_N (BC5, 2048X2048)
+Missing cached shader map for material M_Blunt_Primative, compiling. 
+Missing cached shader map for material M_Blunt_Pulverizer, compiling. 
+Missing cached shader map for material M_Blunt_Punctuator, compiling. 
+Building textures: T_Decorative_Arches_C (AutoDXT, 2048X2048)
+Missing cached shader map for material M_Blunt_Ravager, compiling. 
+Missing cached shader map for material M_Blunt_RockyHammer, compiling. 
+Missing cached shader map for material M_Blunt_SpikedClub, compiling. 
+Missing cached shader map for material M_Blunt_StoneHammer, compiling. 
+Missing cached shader map for material M_Blunt_Temperance, compiling. 
+Missing cached shader map for material M_Blunt_Unicorn, compiling. 
+Missing cached shader map for material M_Dual_Blade_Arrow, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe1, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe10, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe11, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe12, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe13, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe14, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe15, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe16, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe17, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe2, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe3, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe4, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe5, compiling. 
+Cooked packages 1035 Packages Remain 1585 Total 2620
+Building textures: T_Cell_Side_C (AutoDXT, 2048X2048)
+Building textures: T_Fire_Pit_C (AutoDXT, 2048X2048)
+Missing cached shader map for material M_Dual_Blade_Axe6, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe7, compiling. 
+Building textures: T_SplitLog_C (AutoDXT, 2048X2048)
+Missing cached shader map for material M_Dual_Blade_Axe8, compiling. 
+Missing cached shader map for material M_Dual_Blade_Axe9, compiling. 
+Missing cached shader map for material M_Dual_Blade_Bone, compiling. 
+Missing cached shader map for material M_Dual_Blade_BronzeScythe, compiling. 
+Missing cached shader map for material M_Dual_Blade_Cleaver, compiling. 
+Missing cached shader map for material M_Dual_Blade_Fang, compiling. 
+Missing cached shader map for material M_Dual_Blade_Glimmer, compiling. 
+Missing cached shader map for material M_Dual_Blade_Machete, compiling. 
+Missing cached shader map for material M_Dual_Blade_Rock, compiling. 
+Missing cached shader map for material M_Dual_Blade_SwordOfStorms, compiling. 
+Missing cached shader map for material M_Dual_Blade_Talon, compiling. 
+Missing cached shader map for material M_Dual_Blade_Tech, compiling. 
+Missing cached shader map for material M_Dual_Blade_WrappedDeath, compiling. 
+Missing cached shader map for material M_1Meter_01, compiling. 
+Missing cached shader map for material M_CycRoom_01, compiling. 
+Missing cached shader map for material M_ForgeHammer_01, compiling. 
+Missing cached shader map for material M_ForgeHammer_02, compiling. 
+Missing cached shader map for material T_Forging_Mallet_02and3_D_Mat, compiling. 
+Building textures: T_SplitLog_A (AutoDXT, 2048X2048)
+Building textures: T_Small_Window_A (AutoDXT, 2048X2048)
+Building textures: T_Small_Window_C (AutoDXT, 2048X2048)
+Building textures: T_SplitLog_N (BC5, 2048X2048)
+Building textures: T_Small_Window_N (BC5, 2048X2048)
+Building textures: T_Stairs_10_Albedo (AutoDXT, 4096X4096)
+Building textures: T_Stairs_10_Compact (AutoDXT, 4096X4096)
+Building textures: T_Stone_Altar_C (AutoDXT, 2048X2048)
+Building textures: T_Stone_Altar_A (AutoDXT, 2048X2048)
+Building textures: T_Stairs_10_Normal (BC5, 4096X4096)
+Building textures: T_Stone_Altar_N (BC5, 2048X2048)
+Building textures: T_Chains_Texturing_A (AutoDXT, 2048X2048)
+Building textures: T_Chains_Texturing_C (AutoDXT, 2048X2048)
+Building textures: T_Chains_Texturing_N (BC5, 2048X2048)
+Building textures: T_Bed_A (AutoDXT, 2048X2048)
+Building textures: T_Bed_C (AutoDXT, 2048X2048)
+Building textures: T_Bed_N (BC5, 2048X2048)
+Building textures: T_Gargoyle_A (AutoDXT, 2048X2048)
+Building textures: T_Dirt_Mound_Texturing_C (AutoDXT, 2048X2048)
+Building textures: T_Dirt_Mound_Texturing_A (AutoDXT, 2048X2048)
+Building textures: T_Dirt_Mound_Texturing_N (BC5, 2048X2048)
+Building textures: T_Gargoyle_C (AutoDXT, 2048X2048)
+Worker (3/9): shaders left to compile 3619
+Worker (4/9): shaders left to compile 3609
+Worker (5/9): shaders left to compile 3599
+Worker (7/9): shaders left to compile 3589
+Building textures: T_Gargoyle_Stand_A (AutoDXT, 2048X2048)
+Building textures: T_Pots_Texturing_C (AutoDXT, 2048X2048)
+Building textures: T_Gargoyle_Stand_N (BC5, 2048X2048)
+Building textures: T_Pots_Texturing_N (BC5, 2048X2048)
+Building textures: T_Gargoyle_N (BC5, 2048X2048)
+Building textures: T_Pots_Texturing_A (AutoDXT, 2048X2048)
+Building textures: T_Gargoyle_Stand_C (AutoDXT, 2048X2048)
+Worker (6/9): shaders left to compile 3579
+Worker (2/9): shaders left to compile 3569
+Worker (8/9): shaders left to compile 3559
+Worker (1/9): shaders left to compile 3549
+Cooked packages 1085 Packages Remain 1576 Total 2661
+Building textures: T_Statue_Hooded_R (BGRA8, 2048X2048)
+Building textures: T_Statue_Hooded_A (AutoDXT, 2048X2048)
+Building textures: T_Statue_Hooded_N (BC5, 2048X2048)
+Building textures: T_Statue_Stand_A (AutoDXT, 2048X2048)
+Building textures: T_Statue_Stand_C (AutoDXT, 2048X2048)
+Building textures: T_Stone_Coffin_A (AutoDXT, 2048X2048)
+Worker (2/9): shaders left to compile 3539
+Worker (5/9): shaders left to compile 3529
+Building textures: T_Statue_Stand_N (BC5, 2048X2048)
+Worker (8/9): shaders left to compile 3519
+Building textures: T_Stone_Coffin_C (AutoDXT, 2048X2048)
+Building textures: T_Stone_Coffin_N (BC5, 2048X2048)
+Worker (4/9): shaders left to compile 3509
+Worker (3/9): shaders left to compile 3499
+Worker (5/9): shaders left to compile 3489
+Building textures: T_Stocks_C (AutoDXT, 4096X4096)
+Building textures: T_Stocks_A (AutoDXT, 4096X4096)
+Building textures: T_Stocks_N (BC5, 4096X4096)
+Worker (7/9): shaders left to compile 3479
+Worker (4/9): shaders left to compile 3469
+Worker (2/9): shaders left to compile 3459
+Worker (5/9): shaders left to compile 3449
+Worker (8/9): shaders left to compile 3439
+Building textures: T_Table_A (AutoDXT, 4096X4096)
+Worker (3/9): shaders left to compile 3429
+Building textures: T_Skeleton_Clean_A (AutoDXT, 2048X2048)
+Building textures: T_Table_C (AutoDXT, 4096X4096)
+Worker (1/9): shaders left to compile 3419
+Building textures: T_Skeleton_Clean_C (AutoDXT, 2048X2048)
+Building textures: T_Wood_C (AutoDXT, 4096X4096)
+Worker (6/9): shaders left to compile 3409
+Worker (5/9): shaders left to compile 3399
+Worker (4/9): shaders left to compile 3389
+Worker (2/9): shaders left to compile 3379
+Building textures: T_Wood_A (AutoDXT, 4096X4096)
+Building textures: T_Table_N (BC5, 4096X4096)
+Building textures: T_Skeleton_Dirty_A (AutoDXT, 2048X2048)
+Building textures: T_Wood_N (BC5, 4096X4096)
+Building textures: T_Skeleton_Clean_N (BC5, 2048X2048)
+Building textures: T_Skeleton_Dirty_C (AutoDXT, 2048X2048)
+Building textures: T_Medieval_Dungeon_LUT (BGRA8, 256X16)
+Building textures: T_Blade_FissueBlade1_M (AutoDXT, 512X512)
+Building textures: T_Blade_FissueBlade1_D (AutoDXT, 512X512)
+Building textures: T_Blade_FissueBlade2_D (AutoDXT, 512X512)
+Building textures: T_Skeleton_Dirty_N (BC5, 2048X2048)
+Building textures: T_Blade_FissueBlade2_M (AutoDXT, 512X512)
+Building textures: T_Blade_FrostGiant2_M (AutoDXT, 512X512)
+Building textures: T_Blade_FissueBlade2_N (BC5, 512X512)
+Building textures: T_Blade_FissueBlade1_N (BC5, 512X512)
+Building textures: T_Blade_GreatBlade1_M (AutoDXT, 512X512)
+Worker (8/9): shaders left to compile 3369
+Building textures: T_Blade_FrostGiant1_M (AutoDXT, 512X512)
+Worker (3/9): shaders left to compile 3359
+Worker (6/9): shaders left to compile 3349
+Worker (7/9): shaders left to compile 3339
+Building textures: T_Blade_GreatBlade2_M (AutoDXT, 512X512)
+Building textures: T_Blade_FrostGiant1_D (AutoDXT, 512X512)
+Building textures: T_Blade_FrostGiant2_N (BC5, 512X512)
+Building textures: T_Blade_FrostGiant1_N (BC5, 512X512)
+Building textures: T_Blade_FrostGiant2_D (AutoDXT, 512X512)
+Building textures: T_Blade_GreatBlade2_D (AutoDXT, 512X512)
+Building textures: T_Blade_Hatchet1_M (AutoDXT, 512X512)
+Worker (1/9): shaders left to compile 3329
+Worker (4/9): shaders left to compile 3319
+Building textures: T_Blade_GreatBlade1_D (AutoDXT, 512X512)
+Building textures: T_Blade_GreatBlade1_N (BC5, 512X512)
+Building textures: T_Blade_Hatchet1_D (AutoDXT, 512X512)
+Building textures: T_Blade_GreatBlade2_N (BC5, 512X512)
+Building textures: T_Blade_Hatchet1_N (BC5, 512X512)
+Building textures: T_Blade_Hatchet2_M (AutoDXT, 512X512)
+Building textures: T_Blade_Hatchet2_D (AutoDXT, 512X512)
+Worker (5/9): shaders left to compile 3309
+Building textures: T_Blade_Hatchet021_M (AutoDXT, 512X512)
+Building textures: T_Blade_Hatchet2_N (BC5, 512X512)
+Building textures: T_Blade_Hatchet022_M (AutoDXT, 512X512)
+Building textures: T_Blade_Hatchet022_D (AutoDXT, 512X512)
+Building textures: T_Blade_Hatchet021_D (AutoDXT, 512X512)
+Building textures: T_Blade_Hatchet021_N (BC5, 512X512)
+Building textures: T_Blade_Hatchet022_N (BC5, 512X512)
+Building textures: T_Blade_HeavyAxe2_M (AutoDXT, 512X512)
+Building textures: T_Blade_HeavyAxe1_M (AutoDXT, 512X512)
+Cooked packages 1135 Packages Remain 1575 Total 2710
+Building textures: T_Blade_IceElemental1_M (AutoDXT, 512X512)
+Building textures: T_Blade_HeavyAxe1_N (BC5, 512X512)
+Building textures: T_Blade_HeavyAxe1_D (AutoDXT, 512X512)
+Building textures: T_Blade_HeavyAxe2_N (BC5, 512X512)
+Building textures: T_Blade_IceElemental2_M (AutoDXT, 512X512)
+Building textures: T_Blade_HeavyAxe2_D (AutoDXT, 512X512)
+Building textures: T_Blade_IceElemental1_D (AutoDXT, 512X512)
+Building textures: T_Blade_IceElemental1_N (BC5, 512X512)
+Building textures: T_Blade_Segmented1_M (AutoDXT, 512X512)
+Building textures: T_Blade_IceElemental2_D (AutoDXT, 512X512)
+Building textures: T_Blade_IceElemental2_N (BC5, 512X512)
+Building textures: T_Blade_Segmented1_D (AutoDXT, 512X512)
+Building textures: T_Blade_Segmented2_M (AutoDXT, 512X512)
+Building textures: T_Blade_Segmented1_N (BC5, 512X512)
+Building textures: T_Blade_SegmentedB1_M (AutoDXT, 512X512)
+Building textures: T_Blade_SegmentedB1_D (AutoDXT, 512X512)
+Building textures: T_Blade_Segmented2_N (BC5, 512X512)
+Building textures: T_Blade_Segmented2_D (AutoDXT, 512X512)
+Cooked packages 1185 Packages Remain 1552 Total 2737
+Building textures: T_Blade_SegmentedB2_M (AutoDXT, 512X512)
+Building textures: T_Blade_SegmentedB2_N (BC5, 512X512)
+Building textures: T_Blade_SegmentedB1_N (BC5, 512X512)
+Building textures: T_Blade_SkexyAxe1_N (BC5, 512X512)
+Building textures: T_Blade_SkexyAxe1_D (AutoDXT, 512X512)
+Building textures: T_Blade_SmAxe1_M (AutoDXT, 256X256)
+Building textures: T_Blade_SegmentedB2_D (AutoDXT, 512X512)
+Building textures: T_Blade_SkexyAxe2_M (AutoDXT, 512X512)
+Building textures: T_Blade_SmAxe1_D (AutoDXT, 256X256)
+Building textures: T_Blade_SkexyAxe2_D (AutoDXT, 512X512)
+Building textures: T_Blade_SmAxe1_N (BC5, 256X256)
+Building textures: T_Blade_SkexyAxe2_N (BC5, 512X512)
+Building textures: T_Blade_SmAxe2_D (AutoDXT, 256X256)
+Building textures: T_Blade_SmAxe2_M (AutoDXT, 256X256)
+Building textures: T_Blade_SmAxe2_N (BC5, 256X256)
+Building textures: T_Blade_Snarl1_M (AutoDXT, 512X512)
+Building textures: T_Blade_Snarl2_M (AutoDXT, 512X512)
+Building textures: T_SpikeAxe_M2 (AutoDXT, 512X512)
+Building textures: T_SpikeAxe_M1 (AutoDXT, 512X512)
+Building textures: T_Blade_Snarl1_N (BC5, 512X512)
+Building textures: T_Blade_Snarl2_N (BC5, 512X512)
+Building textures: T_Blade_Snarl2_D (AutoDXT, 512X512)
+Building textures: T_Blade_Snarl1_D (AutoDXT, 512X512)
+Building textures: T_SpikeAxe_D2 (AutoDXT, 512X512)
+Building textures: T_SpikeAxe_N1 (BC5, 512X512)
+Building textures: T_SpikeAxe_D1 (AutoDXT, 512X512)
+Building textures: T_SpikeAxe_N2 (BC5, 512X512)
+Building textures: T_Blade_TAxe1_N (BC5, 512X512)
+Building textures: T_Blade_TAxe1_D (AutoDXT, 512X512)
+Building textures: T_Blade_TAxe2_D (AutoDXT, 512X512)
+Building textures: T_Blade_TAxe2_M (AutoDXT, 512X512)
+Worker (2/9): shaders left to compile 3299
+Building textures: T_Blade_TAxe2_N (BC5, 512X512)
+Building textures: T_Blade_ThornAxe1_M (AutoDXT, 512X512)
+Building textures: T_Blade_TechAxe1_N (BC5, 512X512)
+Building textures: T_Blade_ThornAxe2_M (AutoDXT, 512X512)
+Building textures: T_Blade_TechAxe1_D (AutoDXT, 512X512)
+Building textures: T_Blade_TechAxe2_N (BC5, 512X512)
+Building textures: T_Blade_ThornAxe1_D (AutoDXT, 512X512)
+Building textures: T_Blade_ThornAxe2_D (AutoDXT, 512X512)
+Building textures: T_Blade_TechAxe2_D (AutoDXT, 512X512)
+Building textures: T_Blade_ThornAxe1_N (BC5, 512X512)
+Building textures: T_Blade_Baguette1_D (AutoDXT, 512X512)
+Building textures: T_Blade_ThornAxe2_N (BC5, 512X512)
+Building textures: T_Blade_Baguette1_N (BC5, 512X512)
+Building textures: T_Blade_Baguette2_D (AutoDXT, 512X512)
+Worker (6/9): shaders left to compile 3289
+Building textures: T_Blade_Baguette2_N (BC5, 512X512)
+Building textures: T_Blade_Balloon1_D (AutoDXT, 512X512)
+Building textures: T_Blade_Balloon1_N (BC5, 512X512)
+Building textures: T_Blade_BatAxe1_M (AutoDXT, 512X512)
+Building textures: T_Blade_Balloon2_D (AutoDXT, 512X512)
+Building textures: T_Blade_BatAxe2_M (AutoDXT, 512X512)
+Building textures: T_Blade_Balloon2_N (BC5, 512X512)
+Building textures: T_Blade_BatAxe1_D (AutoDXT, 512X512)
+Building textures: T_Blade_BatAxe1_N (BC5, 512X512)
+Building textures: T_Blade_BatAxe2_D (AutoDXT, 512X512)
+Building textures: T_Blade_BatAxe2_N (BC5, 512X512)
+Worker (8/9): shaders left to compile 3279
+Building textures: T_Blade_Chainsaw1_M (AutoDXT, 512X512)
+Building textures: T_Blade_Bubblewand2_N (BC5, 512X512)
+Building textures: T_Blade_Bubblewand2_D (AutoDXT, 512X512)
+Building textures: T_Blade_Bubblewand1_D (AutoDXT, 512X512)
+Building textures: T_Blade_Bubblewand1_N (BC5, 512X512)
+Building textures: T_Blade_Chainsaw2_M (AutoDXT, 512X512)
+Building textures: T_Blade_Chainsaw1_D (AutoDXT, 512X512)
+Building textures: T_Blade_Driver1_M (AutoDXT, 512X512)
+Building textures: T_Blade_Chainsaw1_N (BC5, 512X512)
+Building textures: T_Blade_Chainsaw2_D (AutoDXT, 512X512)
+Building textures: T_Blade_Driver2_M (AutoDXT, 512X512)
+Building textures: T_Blade_Chainsaw2_N (BC5, 512X512)
+Worker (3/9): shaders left to compile 3269
+Building textures: T_Blade_Driver1_D (AutoDXT, 512X512)
+Building textures: T_Blade_Driver1_N (BC5, 512X512)
+Building textures: T_Blade_Driver2_D (AutoDXT, 512X512)
+Worker (7/9): shaders left to compile 3259
+Building textures: T_Blade_Finger1_D (AutoDXT, 512X512)
+Building textures: T_Blade_Driver2_N (BC5, 512X512)
+Building textures: T_Blade_Sucker1_N (BC5, 512X512)
+Building textures: T_Blade_Finger1_N (BC5, 512X512)
+Building textures: T_Blade_Finger2_N (BC5, 512X512)
+Building textures: T_Blade_BlackKnight_Sword1_M (AutoDXT, 256X256)
+Building textures: T_Blade_Sucker2_N (BC5, 512X512)
+Building textures: T_Blade_Sucker2_D (AutoDXT, 512X512)
+Building textures: T_Blade_BlackKnight_Sword2_M (AutoDXT, 256X256)
+Building textures: T_Blade_Finger2_D (AutoDXT, 512X512)
+Building textures: T_Blade_Sucker1_D (AutoDXT, 512X512)
+Building textures: T_Blade_BlackWyrmBlade1_D (AutoDXT, 256X256)
+Building textures: T_Blade_BlackKnight_Sword1_N (BC5, 256X256)
+Building textures: T_Blade_BlackKnight_Sword2_N (BC5, 256X256)
+Building textures: T_Blade_BlackKnight_Sword1_D (AutoDXT, 256X256)
+Building textures: T_Blade_BlackKnight_Sword2_D (AutoDXT, 256X256)
+Building textures: T_Blade_BlackWyrmBlade2_D (AutoDXT, 256X256)
+Building textures: T_Blade_BlackWyrmBlade1_N (BC5, 256X256)
+Building textures: T_Blade_BlackWyrmBlade2_N (BC5, 256X256)
+Building textures: T_Blade_DragonSword1_M (AutoDXT, 256X256)
+Building textures: T_Blade_DragonSword2_M (AutoDXT, 256X256)
+Building textures: T_Blade_Fencer1_M (AutoDXT, 256X256)
+Building textures: T_Blade_Fencer2_M (AutoDXT, 256X256)
+Building textures: T_Blade_DragonSword1_D (AutoDXT, 256X256)
+Building textures: T_Blade_DragonSword1_N (BC5, 256X256)
+Building textures: T_Blade_DragonSword2_D (AutoDXT, 256X256)
+Building textures: T_Blade_DragonSword2_N (BC5, 256X256)
+Building textures: T_Blade_Fencer1_D (AutoDXT, 256X256)
+Building textures: T_Blade_Fencer1_N (BC5, 256X256)
+Building textures: T_Blade_Fencer2_D (AutoDXT, 256X256)
+Worker (4/9): shaders left to compile 3249
+Building textures: T_Blade_Fencer2_N (BC5, 256X256)
+Building textures: T_Blade_Glimmer2_M (AutoDXT, 256X256)
+Building textures: T_Blade_Glimmer1_D (AutoDXT, 256X256)
+Building textures: T_Blade_Glimmer1_N (BC5, 256X256)
+Building textures: T_Blade_Glimmer2_D (AutoDXT, 256X256)
+Worker (1/9): shaders left to compile 3239
+Building textures: T_Blade_HeroSword101_N (BC5, 256X256)
+Building textures: T_Blade_Glimmer2_N (BC5, 256X256)
+Building textures: T_Blade_HeroSword102_D (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword101_D (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword_011_N (BC5, 256X256)
+Building textures: T_Blade_HeroSword102_M (AutoDXT, 256X256)
+Worker (2/9): shaders left to compile 3229
+Building textures: T_Blade_HeroSword162_M (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword102_N (BC5, 256X256)
+Building textures: T_Blade_HeroSword_011_D (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword161_M (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword171_M (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword172_M (AutoDXT, 256X256)
+Worker (5/9): shaders left to compile 3219
+Building textures: T_Blade_HeroSword161_D (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword171_N (BC5, 256X256)
+Building textures: T_Blade_HeroSword_012_D (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword172_N (BC5, 256X256)
+Building textures: T_Blade_HeroSword171_D (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword161_N (BC5, 256X256)
+Building textures: T_Blade_HeroSword162_D (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword162_N (BC5, 256X256)
+Building textures: T_Blade_HeroSword172_D (AutoDXT, 256X256)
+Building textures: T_Blade_SwordA1_M (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword221_N (BC5, 256X256)
+Building textures: T_Blade_SwordA2_M (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword221_D (AutoDXT, 256X256)
+Building textures: T_Blade_HeroSword222_D (AutoDXT, 256X256)
+Building textures: T_Blade_SwordA1_N (BC5, 256X256)
+Building textures: T_Blade_SwordA1_D (AutoDXT, 256X256)
+Building textures: T_Blade_SwordA2_D (AutoDXT, 256X256)
+Building textures: T_Blade_SwordA2_N (BC5, 256X256)
+Building textures: T_Blade_HeroSword222_N (BC5, 256X256)
+Building textures: T_Blade_SwordB2_M (AutoDXT, 256X256)
+Building textures: T_Blade_SwordB1_D (AutoDXT, 256X256)
+Building textures: T_Blade_SwordB1_N (BC5, 256X256)
+Building textures: T_Blade_SwordB2_D (AutoDXT, 256X256)
+Building textures: T_Blade_SwordB2_N (BC5, 256X256)
+Building textures: T_Blunt_CinderBlock1_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Bell2_N (BC5, 512X512)
+Building textures: T_Blunt_Bell1_N (BC5, 512X512)
+Building textures: T_Blunt_Bell2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_CinderBlock2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Bludgeoner2_N (BC5, 512X512)
+Building textures: T_Blunt_Bludgeoner1_N (BC5, 512X512)
+Building textures: T_Blunt_Bell1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Bludgeoner2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_CinderBlock1_N (BC5, 512X512)
+Building textures: T_Blunt_CinderBlock1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Bludgeoner1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Core1_M (AutoDXT, 512X512)
+Worker (8/9): shaders left to compile 3209
+Building textures: T_Blunt_CinderBlock2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_CinderBlock2_N (BC5, 512X512)
+Building textures: T_Blunt_Core2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Core1_N (BC5, 512X512)
+Building textures: T_Blunt_CrudeHammer1_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Core1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Core2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Core2_N (BC5, 512X512)
+Building textures: T_Blunt_CrudeHammer1_N (BC5, 512X512)
+Building textures: T_Blunt_CrudeHammer2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_CrudeHammer1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_FrostGiant1_M (AutoDXT, 512X512)
+Building textures: T_Blunt_CrudeHammer2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_CrudeHammer2_N (BC5, 512X512)
+Building textures: T_Blunt_FrostGiant1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_FrostGiant2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_FrostGiant1_N (BC5, 512X512)
+Building textures: T_Blunt_GuitarHammer1_M (AutoDXT, 512X512)
+Building textures: T_Blunt_GuitarHammer1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_GuitarHammer1_N (BC5, 512X512)
+Building textures: T_Blunt_FrostGiant2_N (BC5, 512X512)
+Building textures: T_Blunt_FrostGiant2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_GuitarHammer2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_GuitarHammer2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_GuitarHammer2_N (BC5, 512X512)
+Building textures: T_Blunt_Hambone1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Hambone1_N (BC5, 512X512)
+Building textures: T_Blunt_Hambone2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Hellhammer1_M (AutoDXT, 512X512)
+Worker (7/9): shaders left to compile 3199
+Building textures: T_Blunt_Hellhammer1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Hambone2_N (BC5, 512X512)
+Building textures: T_Blunt_Hellhammer1_N (BC5, 512X512)
+Building textures: T_Blunt_IceElemental1_M (AutoDXT, 512X512)
+Worker (3/9): shaders left to compile 3189
+Building textures: T_Blunt_Hellhammer2_N (BC5, 512X512)
+Building textures: T_Blunt_Hellhammer2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Hellhammer_Cine_M (AutoDXT, 2048X2048)
+Building textures: T_Blunt_IceElemental1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_IceElemental2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_IceElemental2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_IceElemental1_N (BC5, 512X512)
+Building textures: T_Blunt_IceElemental2_N (BC5, 512X512)
+Building textures: T_Blunt_JudgeHammer1_N (BC5, 512X512)
+Building textures: T_Blunt_JudgeHammer2_N (BC5, 512X512)
+Building textures: T_Blunt_Hellhammer_Cine_E (AutoDXT, 2048X2048)
+Building textures: T_Blunt_JudgeHammer1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_MeatTenderizer1_M (AutoDXT, 512X512)
+Building textures: T_Blunt_MeatTenderizer2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_MeatTenderizer1_N (BC5, 512X512)
+Building textures: T_Blunt_JudgeHammer2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_MeatTenderizer1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_MeatTenderizer2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_MeatTenderizer2_N (BC5, 512X512)
+Building textures: T_Blunt_Primative1_N (BC5, 512X512)
+Building textures: T_Blunt_Primative1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Primative2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Pulverizer1_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Pulverizer2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Primative2_N (BC5, 512X512)
+Building textures: T_Blunt_Punctuator1_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Punctuator2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Pulverizer1_N (BC5, 512X512)
+Building textures: T_Blunt_Pulverizer1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Hellhammer_Cine_N (BC5, 2048X2048)
+Building textures: T_Blunt_Pulverizer2_N (BC5, 512X512)
+Building textures: T_Blunt_Pulverizer2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Punctuator2_N (BC5, 512X512)
+Building textures: T_Blunt_Punctuator2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Punctuator1_N (BC5, 512X512)
+Building textures: T_Blunt_Punctuator1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Ravager1_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Ravager1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Ravager1_N (BC5, 512X512)
+Building textures: T_Blunt_Ravager2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_RockyHammer1_M (AutoDXT, 512X512)
+Building textures: T_Blunt_RockyHammer2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Ravager2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Ravager2_N (BC5, 512X512)
+Building textures: T_Blunt_RockyHammer1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Hellhammer_Cine_D (AutoDXT, 2048X2048)
+Building textures: T_Blunt_RockyHammer2_N (BC5, 512X512)
+Building textures: T_Blunt_RockyHammer1_N (BC5, 512X512)
+Building textures: T_Blunt_RockyHammer2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_SpikedClub1_N (BC5, 512X512)
+Building textures: T_Blunt_StoneHammer1_M (AutoDXT, 512X512)
+Building textures: T_Blunt_SpikedClub1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_SpikedClub2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_SpikedClub2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_SpikedClub2_N (BC5, 512X512)
+Building textures: T_Blunt_StoneHammer2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_StoneHammer1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_StoneHammer1_N (BC5, 512X512)
+Building textures: T_Blunt_StoneHammer2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Temperance2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_StoneHammer2_N (BC5, 512X512)
+Building textures: T_Blunt_Temperance1_N (BC5, 512X512)
+Building textures: T_Blunt_Temperance2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Temperance1_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Temperance2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Arrow1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Arrow2_M (AutoDXT, 512X512)
+Building textures: T_Blunt_Unicorn1_N (BC5, 512X512)
+Building textures: T_Blunt_Unicorn2_D (AutoDXT, 512X512)
+Building textures: T_Blunt_Unicorn2_N (BC5, 512X512)
+Building textures: T_Blunt_Unicorn1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe1_1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Arrow1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Arrow1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Arrow2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Arrow2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe1_2_M (AutoDXT, 512X512)
+Building textures: T_Dual_axe10_1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe1_1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe1_1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe1_2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe1_2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe11_1_M (AutoDXT, 512X512)
+Building textures: T_Dual_axe10_1_N (BC5, 512X512)
+Building textures: T_Dual_axe10_1_D (AutoDXT, 512X512)
+Building textures: T_Dual_axe10_2_N (BC5, 512X512)
+Building textures: T_Dual_axe10_2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe11_2_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe12_1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe11_1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe11_1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe11_2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe11_2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe12_2_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe12_1_N (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe12_1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe12_2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe12_2_N (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe13_1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe13_1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe13_2_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe13_2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe13_2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe142_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe141_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe151_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe141_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe151_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe142_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe142_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe151_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe152_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe152_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe16_1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe16_2_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe16_1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe16_1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe16_2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe16_2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe171_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe172_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe21_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe171_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe171_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe172_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe21_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe21_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe22_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe32_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe31_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe172_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe22_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe41_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe31_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe22_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe31_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe32_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe32_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe42_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe41_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe41_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe42_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe51_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe42_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe51_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe52_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe52_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe51_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe52_N (BC5, 512X512)
+Worker (4/9): shaders left to compile 3179
+Worker (5/9): shaders left to compile 3169
+Worker (7/9): shaders left to compile 3159
+Worker (8/9): shaders left to compile 3149
+Building textures: T_Dual_Blade_Axe6_1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe6_1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe71_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe6_1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe71_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe6_2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe72_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe81_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe71_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe6_2_D (AutoDXT, 512X512)
+Worker (1/9): shaders left to compile 3139
+Worker (2/9): shaders left to compile 3129
+Worker (3/9): shaders left to compile 3119
+Worker (6/9): shaders left to compile 3109
+Building textures: T_Dual_Blade_Axe72_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe72_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe82_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe81_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe81_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe82_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe91_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe92_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe82_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe91_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe91_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Axe92_N (BC5, 512X512)
+Building textures: T_Dual_Blade_BronzeScythe2_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Bone1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Bone1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Bone2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_BronzeScythe1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_BronzeScythe1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Bone2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_BronzeScythe2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Cleaver1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Axe92_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_BronzeScythe2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Cleaver2_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Cleaver1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Cleaver1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Fang1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Cleaver2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Fang1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Cleaver2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Fang2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Fang1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Glimmer1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Fang2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Glimmer1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Glimmer1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Machete2_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Glimmer2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Glimmer2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Machete1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Machete1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Machete2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Machete2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Rock1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_SwordOfStorms1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Rock1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Rock2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Rock2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_SwordOfStorms1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_SwordOfStorms1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_SwordOfStorms2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_SwordOfStorms2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Talon2_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Talon1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Tech1_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Talon1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Tech2_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Talon2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Talon2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Tech1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Tech1_N (BC5, 512X512)
+Building textures: T_Dual_Blade_Tech2_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_Tech2_N (BC5, 512X512)
+Building textures: T_Dual_Blade_WrappedDeath1_D (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_WrappedDeath2_M (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_WrappedDeath1_N (BC5, 512X512)
+Building textures: T_Forging_Mallet_02_M_R (AutoDXT, 1024X1024)
+Building textures: T_Dual_Blade_WrappedDeath2_D (AutoDXT, 512X512)
+Building textures: T_FogPlane01_Clouds (AutoDXT, 512X512)
+Building textures: T_Dual_Blade_WrappedDeath2_N (BC5, 512X512)
+Building textures: T_Forging_Mallet_02and3_E (AutoDXT, 1024X1024)
+Building textures: T_ForgeHammer_01_N (BC5, 1024X1024)
+Building textures: HDRI_Epic_Courtyard_Daylight (RGBA16F, 1024X512)
+Building textures: T_ForgeHammer_02_N (BC5, 1024X1024)
+Worker (7/9): shaders left to compile 3099
+Building textures: T_Forging_Mallet_02and3_N (BC5, 1024X1024)
+Worker (4/9): shaders left to compile 3089
+Building textures: T_ForgeHammer_02_D (AutoDXT, 1024X1024)
+Building textures: T_Forging_Mallet_02and3_D (AutoDXT, 1024X1024)
+Building textures: T_ForgeHammer_01_D (AutoDXT, 1024X1024)
+Worker (8/9): shaders left to compile 3079
+Worker (2/9): shaders left to compile 3069
+Worker (1/9): shaders left to compile 3059
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.795BAA23420A3347F528B18EBD3E83E1 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.795BAA23420A3347F528B18EBD3E83E1! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/temp.EAF28C4248F0F56D56833FA75B7D58BB (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/temp.EAF28C4248F0F56D56833FA75B7D58BB! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.486237B84104CF1FA173B0A9E565B2D7 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/temp.486237B84104CF1FA173B0A9E565B2D7! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_102B62094C1B51D06239AA8FA0E764F4___0A88A3D319A97DD53616245BFDADD0DDEBF669BC.
+Worker (5/9): shaders left to compile 3049
+Worker (6/9): shaders left to compile 3039
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/1/temp.926C093144F00A837637AAAD1111F8A7 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/1/temp.926C093144F00A837637AAAD1111F8A7! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/1/temp.F2FE047D47420F3D0F1780A596541035 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/1/temp.F2FE047D47420F3D0F1780A596541035! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_78A73DCC48A81F3CBA59709C61F3B7AC___7B7AE0E7BF8E1A28247201437FDC76142BA36720.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/0/temp.D00436D741753B431F167FB327E3D010 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/0/temp.D00436D741753B431F167FB327E3D010! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/0/temp.5AA1EDA0421A82A20CF87C802CB63DFB (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/0/temp.5AA1EDA0421A82A20CF87C802CB63DFB! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_4E1E40A64B89CBFDAD5564877FCEB425___B1AEDFBE5901A47DF66CB178C904929406352241.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/temp.FDE7E7704BCE93B2FB9220ADEDD04473 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/4/temp.0AE6CD85400C96C51773A9BEB048A583 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/temp.FDE7E7704BCE93B2FB9220ADEDD04473! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/4/temp.0AE6CD85400C96C51773A9BEB048A583! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_102B62094C1B51D06239AA8FA0E764F4___5B85AAD98D81CA6C68DBC85FB0D2BCD7984BB436.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/4/temp.F15AAE8449F9DAFAFA6AA79566C5BB31 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/4/temp.F15AAE8449F9DAFAFA6AA79566C5BB31! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_CFC8F9314959D231C317E0B0E2707__8656116063A50CC1193C1B29B211E73DDFD23086.
+Worker (7/9): shaders left to compile 3029
+Worker (8/9): shaders left to compile 3019
+Cooked packages 1235 Packages Remain 1550 Total 2785
+Cooked packages 1285 Packages Remain 1550 Total 2835
+Cooked packages 1335 Packages Remain 1527 Total 2862
+Cooked packages 1385 Packages Remain 1527 Total 2912
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/temp.26189C484487FBC34C7C5D94A7A84E8E (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/temp.26189C484487FBC34C7C5D94A7A84E8E! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/temp.D8ACB9B340E843DC105C3C8161816ED7 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/temp.D8ACB9B340E843DC105C3C8161816ED7! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_D06B00BC410DB7BB18C27A957152C__FA389FBA6856F4CB5EF387CC1514AC4F5E56C433.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/3/temp.9148FE7F487D1CBB6AACADB4BCC131B2! Error: 112 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/temp.4DC2AC614CE4CD3544BA0487D9AECEDB (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/temp.4DC2AC614CE4CD3544BA0487D9AECEDB! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/0/temp.F548E54546D4EC833F9179B94FB0D219 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/5/temp.8AE41778413BC2D429D38883E50A2511 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/0/temp.F548E54546D4EC833F9179B94FB0D219! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/5/temp.8AE41778413BC2D429D38883E50A2511! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/0/temp.B74BEE5E4CAB00F0A896A3B7C90B97F4 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/0/temp.B74BEE5E4CAB00F0A896A3B7C90B97F4! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/temp.19F3C6284A1B0C6EE6F061A248EA31B4 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/3/temp.206DB9C54DE6A80482902D8722CD2AF8! Error: 112 (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_D06B00BC410DB7BB18C27A957152C__EE5CB5382DB8740212439B31DF62FB672B35E425.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/temp.19F3C6284A1B0C6EE6F061A248EA31B4! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/5/temp.13345969446FC7E53E713E8A33F0FEE7 (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_D06B00BC410DB7BB18C27A957152C__B4A7433BA0D16B9DF5060E2475A3D70D055B15C6.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/5/temp.13345969446FC7E53E713E8A33F0FEE7! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/0/temp.C87A2CC44FF59E06221E51A37967FA9F (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/0/temp.C87A2CC44FF59E06221E51A37967FA9F! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/6/temp.5956C8DC4C2C6AB8D8446A87902BE7B4 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/6/temp.5956C8DC4C2C6AB8D8446A87902BE7B4! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_259893B84BD225545BD61C837792E__85508209BA1B64A116A9D2E999E3F6DBE9B6B1BA.
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_259893B84BD225545BD61C837792E__10C0076C4052BAF99C1CF1F8E476B868216252FE.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/temp.35D96BD94A09C28955AE81B0373637D3 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/temp.35D96BD94A09C28955AE81B0373637D3! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/6/temp.0375047144CE02CD80A18D82019D2F71 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/0/temp.8D2D55074DDA2A7D3D4224AB1311856E (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/3/temp.BFE5947248CF410ACC05EC8D9F585984 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/6/temp.0375047144CE02CD80A18D82019D2F71! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/0/temp.8D2D55074DDA2A7D3D4224AB1311856E! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/3/temp.BFE5947248CF410ACC05EC8D9F585984! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_259893B84BD225545BD61C837792E__CAEC4D0CB571D7B6032ACC7F918C2211CC14EEB7.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/temp.96E7788D46AF2DCBA158B3A8BB7F779E (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/temp.96E7788D46AF2DCBA158B3A8BB7F779E! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_259893B84BD225545BD61C837792E__07262852129F4FE288FB084EA8B4AB289A1F7D16.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/temp.3971968F4180B9651E142EB616A82BCF (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/temp.3971968F4180B9651E142EB616A82BCF! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/3/temp.E27997894B9DE0FC58B2739D383D5D8D (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/3/temp.E27997894B9DE0FC58B2739D383D5D8D! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/5/temp.826C39B74E22421FA3B0F7BE9AEED8BB (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/5/temp.826C39B74E22421FA3B0F7BE9AEED8BB! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/0/temp.04921F8649597E1018E63FBD4149FC71 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/0/temp.04921F8649597E1018E63FBD4149FC71! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_96A2842547FC21FC9D2C2FAB8DF30__F2C4A9FED08583EC899C1C16E21772C250D9AE16.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/temp.B518DFF8475D736F756FAD94642CEEDF (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_96A2842547FC21FC9D2C2FAB8DF30__E53F597CD6DB2867A599694D31568F8ED3D72F57.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/temp.B518DFF8475D736F756FAD94642CEEDF! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/5/temp.8C1CCF964C104BA51A896B8CB735E2BE (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_96A2842547FC21FC9D2C2FAB8DF30__5F86A2D19DB1DF8D8EAA97FA4D76B738AE7B9193.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/5/temp.8C1CCF964C104BA51A896B8CB735E2BE! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_96A2842547FC21FC9D2C2FAB8DF30__178870A4B6B94AC783B8202C2FCC91333201D2DE.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/3/temp.F23B0D00491A2BBB9698099D7649CF9B (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/3/temp.F23B0D00491A2BBB9698099D7649CF9B! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/3/temp.B45B6AD6499B20F983CE6F84F6CAE4AD! Error: 3 (系統找不到指定的路徑。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/3/temp.CEEFFC3746481D606D9B899200E76E18 (磁碟的空間不足。)
+Could not write the shader compiler transfer filename to 'C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/66DFA7B7A43FB3BBFB0186EB08EB9FC1D' (Free Disk Space: 0.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/3/temp.CEEFFC3746481D606D9B899200E76E18! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_4AE503AC4195C25FC097D5B40621DB61___E888CD609584ACCC60A7B958B57031929E73619F.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/1/temp.91C2618247E65B4C08160C8F4E78C033! Error: 112 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/3/temp.AD3EF42B40624C2F7ABD0EB49DB6CC92! Error: 3 (系統找不到指定的路徑。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_4AE503AC4195C25FC097D5B40621DB61___8FB1C67620F6EDD31717F33E5047CB91BE763F85.
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/0/temp.30DAEFA842D7C3A9F5B80A959182FE62 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/1/temp.0D265B1D4408B79BFBA868A650258FA1! Error: 112 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/0/temp.30DAEFA842D7C3A9F5B80A959182FE62! Error: 0 (操作順利完成。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_4AE503AC4195C25FC097D5B40621DB61___5124B8865C7DBA062ED79A2C5EBB6BD11A9A69F7.
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/0/temp.87F531CA471C474A7EA97790421F5F1B (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/0/temp.87F531CA471C474A7EA97790421F5F1B! Error: 0 (操作順利完成。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_4AE503AC4195C25FC097D5B40621DB61___5DD21B52AACD85C003B6F6EBFBD640D76E396254.
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/2/temp.7F97D1394B70B286D3873383CB05F494! Error: 112 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/8/temp.01B4F2B2495935345FBBA2897EEB71E7! Error: 112 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/0/temp.4974EE2045EE3636327CC69AD4DD8C01! Error: 112 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/8/temp.D1CD443F414B66F94719F0BEA4DFB0C6! Error: 112 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5D97E95A4BF4CBC34AE818AF16472__7E91A219D8166361E4038D27BA928654388E995D.
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/3/temp.A2D02FA4479A54CDFBE3D19A3942515C! Error: 112 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/3/temp.CF38273D4E418B9FF468A393273F4142! Error: 112 (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5D97E95A4BF4CBC34AE818AF16472__077CC2D4D8D3FE3202E3F3EBA0497929CA0483CF.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/0/temp.01B0826D479377B686B5C5AE45E312E7! Error: 112 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5D97E95A4BF4CBC34AE818AF16472__E89C5888B63909A4C8B13855D7A27D98FBAC456F.
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/temp.4BE0DB994C648F1D2C8E81BCB5359E81 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/temp.068C6F2A43D7ABDEF99536A9BA22AA83 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/temp.4BE0DB994C648F1D2C8E81BCB5359E81! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/temp.068C6F2A43D7ABDEF99536A9BA22AA83! Error: 0 (操作順利完成。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/2/temp.F753FFFF43B833633F22D68FE6A81897! Error: 112 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_4AE503AC4195C25FC097D5B40621DB61___03E3E21152F41C2FF88BAA838E6E6B3D3BF7FFC8.
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/temp.F0B76A07472CB5453BE4C491D6E4027C (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/temp.CF850FE54EA7E0C4C5F08EA0C13D6AB6 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/temp.F0B76A07472CB5453BE4C491D6E4027C! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/temp.CF850FE54EA7E0C4C5F08EA0C13D6AB6! Error: 0 (操作順利完成。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/temp.FF3E09FF4655C7D30F17E0AFCAEFA6E6 (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5D97E95A4BF4CBC34AE818AF16472__75669286E05CD83E0D36B5186F017CC8B235CF1E.
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/temp.FF3E09FF4655C7D30F17E0AFCAEFA6E6! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5D97E95A4BF4CBC34AE818AF16472__9C58FC2AA6D363CE6427C555803C39FDDE2F10BC.
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/temp.046A69054E88DC326E49329A09CC9195 (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/temp.046A69054E88DC326E49329A09CC9195! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5D97E95A4BF4CBC34AE818AF16472__CBF11C09658D1F063A770E3B63734DA67D3D4B53.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/9/temp.BEAB4D804B9994437720CCAFFE28DE56 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/0/temp.9E823C344173231118EC8CBB4BA02795 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/9/temp.BEAB4D804B9994437720CCAFFE28DE56! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/0/temp.9E823C344173231118EC8CBB4BA02795! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_4E1E40A64B89CBFDAD5564877FCEB425___E8F8B936514385558873D703B0C4FC1AB5E1DFDC.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/temp.802A663948ACDF5771855DA6636659E7 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/temp.802A663948ACDF5771855DA6636659E7! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/temp.3A55E6504C5320F02F2231B9B94F917A (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/9/temp.1AC2982941C708A1D71D57A4B60CEEFA (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/temp.3A55E6504C5320F02F2231B9B94F917A! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/9/temp.1AC2982941C708A1D71D57A4B60CEEFA! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_562FAD0940EF648479CBF8986D269__21EB133FAA4DC9A8CEDC47CD6DB9F560BD319DAB.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/temp.A8A719834E47F0A38E852391AFC6BB0B (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/temp.A8A719834E47F0A38E852391AFC6BB0B! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/temp.9C20F9504E4B64EB9C9B04A4C975674B (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_562FAD0940EF648479CBF8986D269__F0A5C48C26BEE7F12F8E54CA02FEF83BE6CD33F6.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/temp.9C20F9504E4B64EB9C9B04A4C975674B! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/4/temp.3B7632F44CA3BFFD0A3D14AE531DBDFE (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/4/temp.3B7632F44CA3BFFD0A3D14AE531DBDFE! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/temp.CD4420EF44852C084525499BF3B9799D (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/temp.4AA8018F4C7A745A1BE928AD97FD3474 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/temp.CD4420EF44852C084525499BF3B9799D! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/temp.4AA8018F4C7A745A1BE928AD97FD3474! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_562FAD0940EF648479CBF8986D269__272BB8E86CD2BBF9013402B33F01F3A6D8BD6D32.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/4/temp.1FCD867942800E81CFF55488317E167F (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_562FAD0940EF648479CBF8986D269__0C9A28DD5227222B87A79EB0EA6A28FF7A7913B2.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/4/temp.1FCD867942800E81CFF55488317E167F! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_562FAD0940EF648479CBF8986D269__A78BFDA9EE7DA312B076C946578F4C8D94A6B717.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/temp.6C8F569C4F571C6033A928A4BAEC9AFF (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/temp.6C8F569C4F571C6033A928A4BAEC9AFF! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/temp.5D411FDE46B7471CA70255A2421B779D (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/temp.5D411FDE46B7471CA70255A2421B779D! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_562FAD0940EF648479CBF8986D269__AAA6C8CCE18A1EEE837A02A049AC4FC046EFA06F.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/temp.A873D3864BB4B28E3349C48B7789A556 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/temp.A873D3864BB4B28E3349C48B7789A556! Error: 0 (操作順利完成。)
+Could not write the shader compiler transfer filename to 'C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/72EC21C3641D280BF30AA858393965F11' (Free Disk Space: 0.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/0/temp.9EAB23654E5AD74C8DB9F389920C21EE (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/0/temp.9EAB23654E5AD74C8DB9F389920C21EE! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/temp.27BAC4BF4292C577BF02F68BBC612D34! Error: 112 (磁碟的空間不足。)
+Worker (1/9): shaders left to compile 3009
+Worker (2/9): shaders left to compile 2999
+Worker (3/9): shaders left to compile 2989
+Worker (4/9): shaders left to compile 2979
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/0/temp.BC513BEE4F4CF5ED8C5528B52D78EE68 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/0/temp.BC513BEE4F4CF5ED8C5528B52D78EE68! Error: 0 (操作順利完成。)
+Error writing to file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_E375DA89455BE2856DAC7BBC9809E__EC966D4D8EAAC54A744342DDD9AD8B7A54E8D5AB.
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+Error flushing file: C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/9/temp.B9A4B6644B98D9475618C68B1F19FCEE! Error: 112 (磁碟的空間不足。)
+Cooked packages 1435 Packages Remain 1527 Total 2962
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/temp.A51B8DC747EF088C4F9FCFB763AE5AB3 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/7/temp.1A6B3FAD4E8D6C71CF1ECD865718D46A (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/temp.767400FF49E78CD16155F3B08745ABD7 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/7/temp.435FB53249A91CFA65BB5A9A734279C1 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/4/temp.F74336C14435C7BDBA81DB9F240972AE (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/4/temp.2BD61BE94E220B9D3F8D15982C9A4D7D (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/temp.058D587A45B11E7B394FFDA6D1FA4619 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/7/temp.79475D09467D863F1B64F9B82FA34986 (磁碟的空間不足。)
+Could not write the shader compiler transfer filename to 'C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/030BA2EDC4E1C036D457C059C1D98AD4A' (Free Disk Space: 0.
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/0/temp.1F255F9F49885C2C6C7E228FCF5B6315 (磁碟的空間不足。)
+Error writing to file: C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/temp.3CF706474F94D126D80A2798824EB9C3 (磁碟的空間不足。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/temp.A51B8DC747EF088C4F9FCFB763AE5AB3! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/7/temp.1A6B3FAD4E8D6C71CF1ECD865718D46A! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/7/temp.435FB53249A91CFA65BB5A9A734279C1! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/temp.767400FF49E78CD16155F3B08745ABD7! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/4/temp.F74336C14435C7BDBA81DB9F240972AE! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/4/temp.2BD61BE94E220B9D3F8D15982C9A4D7D! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/temp.058D587A45B11E7B394FFDA6D1FA4619! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/temp.3CF706474F94D126D80A2798824EB9C3! Error: 0 (操作順利完成。)
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/0/temp.1F255F9F49885C2C6C7E228FCF5B6315! Error: 0 (操作順利完成。)
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_562FAD0940EF648479CBF8986D269__67971AA61F2707FC9A79B51A51EF3A13C84D8D87.
+FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_E375DA89455BE2856DAC7BBC9809E__096FFCAB283886DEC27842BD0C1C944AF7199ACC.
+FFileSystemDerivedDataBackend: Could not write temp file C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/7/temp.79475D09467D863F1B64F9B82FA34986! Error: 0 (操作順利完成。)
+Expecting ShaderCompileWorker output version 5, got 0 instead! Forgot to build ShaderCompileWorker?
+Expecting ShaderCompileWorker output version 5, got 0 instead! Forgot to build ShaderCompileWorker?
+FPlatformMisc::RequestExit(0)
+Engine exit requested (reason: Win RequestExit)
+Output file corrupted (expected 2724 bytes, but only got 12): C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out
+Output file corrupted (expected 2724 bytes, but only got 12): C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out
+FPlatformMisc::RequestExit(0)
+Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Expecting ShaderCompileWorker Single Jobs 83, got -1 instead! Forgot to build ShaderCompileWorker?
+Expecting ShaderCompileWorker Single Jobs 83, got -1 instead! Forgot to build ShaderCompileWorker?
+FPlatformMisc::RequestExit(0)
+Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+ShaderCompileWorker returned 1950547648 single jobs, 10 expected
+ShaderCompileWorker returned 1950547648 single jobs, 10 expected
+FPlatformMisc::RequestExit(0)
+Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Requested read of 4 bytes when 0 bytes remain (file=C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/02A8890F45951C4F53BC2D9D0D02CB42/6/WorkerOutputOnly.out, size=12)
+Windows GetLastError: 操作順利完成。 (0)
+Cooked packages 1485 Packages Remain 1513 Total 2998
+Cooked packages 1535 Packages Remain 1512 Total 3047
